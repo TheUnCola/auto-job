@@ -1,16 +1,25 @@
 {
-  "name": "mom",
+  "name": "auto-job",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/TheUnCola/mom.git"
+  "description": "Automagically does your job for you",
+  "license": "MIT",
+  "author": {
+    "name": "Steven Sell",
+    "url": "https://cscgithub.cscglobal.com/ssell"
   },
-  "author": "Steven Sell",
-  "license": "ISC",
-  "dependencies": {
-    "selenium-webdriver": "^4.0.0-alpha.1",
-    "webdriverio": "latest"
+  "repository": {
+    "url": "https://github.com/TheUnCola/auto-job.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheUnCola/auto-job/issues"
+  },
+  "scripts": {
+    "dev": "nw src/",
+    "prod": "nwbuild --platforms win32,win64,osx64,linux32,linux64 --buildDir dist/ src/"
+  },
+  "devDependencies": {
+    "nw": "0.29.1",
+    "nw-builder": "3.5.1"
   }
 }

@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheUnCola/mom.git"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Steven Sell",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "webdriverio": "latest"
+  }
 }

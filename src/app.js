@@ -11,8 +11,11 @@ $(document).on('click', event => {
     if(buttonId === "begin") {
         initBrowser();
         navigate("https://www.google.com");
-    } else if(buttonId === "facebook") {
+    } else if(buttonId === "rbi") {
         initBrowser();
-        facebook();
+        rbi();
+    } else if(buttonId === "sicom") {
+        initBrowser();
+        sicom();
     }
 });

@@ -1,2 +1,6 @@
 node_modules/
 .idea/
+input/
+output/
+src/node_modules/
+src/cred.json

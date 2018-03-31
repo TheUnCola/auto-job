@@ -1,14 +1,13 @@
 //let webdriver = require('selenium-webdriver');
 const {Builder, By, Key, until} = require('selenium-webdriver');
 const Promise = require('bluebird');
-var browser;
+var driver;
 
 let logTitle = function() {
-    browser.getTitle().then(function (title) {
+    driver.getTitle().then(function (title) {
         console.log('Current Page Title: ' + title);
     });
 };
-
 
 
 let handleFailure = function(err) {
@@ -17,56 +16,89 @@ let handleFailure = function(err) {
 };
 
 let closeBrowser = function() {
-    browser.quit();
+    driver.quit();
 };
 
 let initBrowser = function () {
 
     // browser = new webdriver.Builder().usingServer().withCapabilities({'browserName': 'chrome'}).build();
-    browser = new Builder().forBrowser('chrome').build();
+    driver = new Builder().forBrowser('chrome').build();
 };
 
-let navigate = function (url, element) {
-    browser.get(url);
-
-    // return new Promise(function (fulfill, reject) {
-    //     return browser.wait(function () {
-    //         return browser.elemen
-    //     })
-    // });
-};
-
-let enterData = function (data, id) {
+let navigate = function (url) {
     return new Promise(function (fulfill, reject) {
-        return browser.wait(until.elementLocated(By.id(id)), 5 * 1000).then(el => {
-            return el.sendKeys(data)
-                .then(fulfill);
-        });
+        return driver.get(url)
+            .then(function () {
+                driver.waitForUrl(url, 10 * 1000)
+                    .then(fulfill);
+            });
     });
 };
 
-let clickButton = function(id) {
+let waitForURL = function (url) {
     return new Promise(function (fulfill, reject) {
-        return browser.wait(until.elementLocated(By.id(id)), 5 * 1000).then(el => {
+        return driver.waitForUrl(url, 10 * 1000)
+            .then(fulfill);
+    });
+};
+
+let enterData = function (data, ref, refType) {
+    return new Promise(function (fulfill, reject) {
+        if(refType === 'id') {
+            return driver.wait(until.elementLocated(By.id(ref)), 5 * 1000).then(el => {
+                return el.sendKeys(data)
+                    .then(fulfill);
+            });
+        } else if(refType === 'name') {
+            return driver.wait(until.elementLocated(By.name(ref)), 5 * 1000).then(el => {
+                return el.sendKeys(data)
+                    .then(fulfill);
+            });
+        }
+    });
+};
+
+let selectOption = function (data, ref, refType) {
+    return new Promise(function (fulfill, reject) {
+        if(refType === 'id') {
+            return driver.wait(until.elementLocated(By.id(ref)), 5 * 1000).then(el => {
+                return el.findElements(By.linkText(data)).click()
+                    .then(fulfill);
+            });
+        } else if(refType === 'name') {
+            return driver.wait(until.elementLocated(By.name(ref)), 5 * 1000).then(el => {
+                return el.findElements(By.linkText(data)).click()
+                    .then(fulfill);
+            });
+        }
+    });
+};
+
+let clickButton = function(id, refType) {
+    return new Promise(function (fulfill, reject) {
+        if(refType === 'id') {
+        return driver.wait(until.elementLocated(By.id(id)), 5 * 1000).then(el => {
             return el.click()
                 .then(fulfill);
         });
+        } else if(refType === 'name') {
+            return driver.wait(until.elementLocated(By.name(id)), 5 * 1000).then(el => {
+                return el.click()
+                    .then(fulfill);
+            });
+        }
     });
 };
 
-let facebook = function() {
-    browser.get("https://www.facebook.com/");
-
-    enterData('email123','email')
-        .then(enterData('pass123','pass'))
-        .then(clickButton('loginbutton'));
+let rbi = function() {
+    driver.get("https://rbi.okta.com/");
 
 
-    // var email = browser.findElement(By.id('email'));
-    // email.sendKeys('email123');
-    //
-    // var pass = browser.findElement(By.id('pass'));
-    // pass.sendKeys('pass123');
-    //
-    // pass.submit();
+};
+
+let sicom = function () {
+    driver.get("https://summerwood.sicomasp.com/login.php?redirect=1");
+
+
+
 };

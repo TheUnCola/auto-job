@@ -1,0 +1,3060 @@
+[{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "NUM",
+	"__EMPTY": " NAME               ",
+	"__EMPTY_1": "UNIT      ",
+	"__EMPTY_2": "OPEN      ",
+	"__EMPTY_3": "USAGE     ",
+	"__EMPTY_4": "RECEIVED  ",
+	"__EMPTY_5": "TRANS IN  ",
+	"__EMPTY_6": "TRANS OUT ",
+	"__EMPTY_7": "WASTE     ",
+	"__EMPTY_8": "PHYS CNT  ",
+	"__EMPTY_9": "O/S       ",
+	"__EMPTY_10": "Amt O/S   "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "1",
+	"__EMPTY": "HASH BROWNS ROUND   ",
+	"__EMPTY_1": "POUND+    ",
+	"__EMPTY_2": "14.57",
+	"__EMPTY_3": "18.47",
+	"__EMPTY_4": "116.57",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0",
+	"__EMPTY_8": "106.85",
+	"__EMPTY_9": "-5.81",
+	"__EMPTY_10": "-3.54"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "7",
+	"__EMPTY": "FRENCH TOAST STICKS ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "396",
+	"__EMPTY_3": "80",
+	"__EMPTY_4": "304",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0",
+	"__EMPTY_8": "608",
+	"__EMPTY_9": "-12",
+	"__EMPTY_10": "-0.76"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "9",
+	"__EMPTY": "SAUSAGE PATTY       ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "287",
+	"__EMPTY_3": "66.5",
+	"__EMPTY_4": "160",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0",
+	"__EMPTY_8": "384",
+	"__EMPTY_9": "3.5",
+	"__EMPTY_10": "0.55"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "54",
+	"__EMPTY": "BEEF PATTY JR WHOP 2",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "1261",
+	"__EMPTY_3": "422",
+	"__EMPTY_4": "2208",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "51",
+	"__EMPTY_8": "2946",
+	"__EMPTY_9": "-50",
+	"__EMPTY_10": "-12.87"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "63",
+	"__EMPTY": "CHICKEN PATTY OCS BR",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "1173",
+	"__EMPTY_3": "43",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "1",
+	"__EMPTY_8": "1126",
+	"__EMPTY_9": "-3",
+	"__EMPTY_10": "-1.01"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "85",
+	"__EMPTY": "CHEESE AMERICAN SM (",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "3350",
+	"__EMPTY_3": "987",
+	"__EMPTY_4": "3200",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "28",
+	"__EMPTY_8": "5520",
+	"__EMPTY_9": "-15",
+	"__EMPTY_10": "-0.64"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "91",
+	"__EMPTY": "BUN WHOPPER 5in     ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "1285",
+	"__EMPTY_3": "264",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "7",
+	"__EMPTY_8": "1015",
+	"__EMPTY_9": "1",
+	"__EMPTY_10": "0.11"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "93",
+	"__EMPTY": "BUN BURGER (SEEDED) ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "1485",
+	"__EMPTY_3": "363",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "16",
+	"__EMPTY_8": "1095",
+	"__EMPTY_9": "-11",
+	"__EMPTY_10": "-0.83"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "95",
+	"__EMPTY": "BUN SPECIALTY       ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "498",
+	"__EMPTY_3": "43",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "2",
+	"__EMPTY_8": "456",
+	"__EMPTY_9": "3",
+	"__EMPTY_10": "0.35"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "209",
+	"__EMPTY": "MOZZARELLA STICKS   ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "302",
+	"__EMPTY_3": "52",
+	"__EMPTY_4": "480",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "20",
+	"__EMPTY_8": "688",
+	"__EMPTY_9": "-22",
+	"__EMPTY_10": "-2.2"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "363",
+	"__EMPTY": "BACON THICK SLICED R",
+	"__EMPTY_1": "CASE+     ",
+	"__EMPTY_2": "3.01",
+	"__EMPTY_3": "0.4",
+	"__EMPTY_4": "2",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0",
+	"__EMPTY_8": "4.59",
+	"__EMPTY_9": "-0.01",
+	"__EMPTY_10": "-1.1"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "368",
+	"__EMPTY": "FRIES COATED 3.8 IN ",
+	"__EMPTY_1": "POUND+    ",
+	"__EMPTY_2": "150",
+	"__EMPTY_3": "178.91",
+	"__EMPTY_4": "1080",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "9.37",
+	"__EMPTY_8": "1014",
+	"__EMPTY_9": "-27.71",
+	"__EMPTY_10": "-16.22"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "395",
+	"__EMPTY": "ONION RINGS RANDOM  ",
+	"__EMPTY_1": "POUND+    ",
+	"__EMPTY_2": "52.5",
+	"__EMPTY_3": "19.2",
+	"__EMPTY_4": "105",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0",
+	"__EMPTY_8": "132.5",
+	"__EMPTY_9": "-5.79",
+	"__EMPTY_10": "-6.1"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "565",
+	"__EMPTY": "CHICKEN BREADED FRIE",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "2787",
+	"__EMPTY_3": "288",
+	"__EMPTY_4": "1200",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "31",
+	"__EMPTY_8": "3617",
+	"__EMPTY_9": "-51",
+	"__EMPTY_10": "-3.09"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "603",
+	"__EMPTY": "CHICKEN NUGGETS BREA",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "4173",
+	"__EMPTY_3": "1134",
+	"__EMPTY_4": "4960",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "69",
+	"__EMPTY_8": "7990",
+	"__EMPTY_9": "60",
+	"__EMPTY_10": "3.26"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "634",
+	"__EMPTY": "BUN 4.25IN POTATO   ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "168",
+	"__EMPTY_3": "114",
+	"__EMPTY_4": "300",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "5",
+	"__EMPTY_8": "349",
+	"__EMPTY_9": "0",
+	"__EMPTY_10": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "635",
+	"__EMPTY": "CROISSANT w/BUTTER F",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "521",
+	"__EMPTY_3": "72",
+	"__EMPTY_4": "150",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0",
+	"__EMPTY_8": "561",
+	"__EMPTY_9": "-38",
+	"__EMPTY_10": "-7.9"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "643",
+	"__EMPTY": "BREAD 4.25in SOURDOU",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "727",
+	"__EMPTY_3": "30",
+	"__EMPTY_4": "450",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "2",
+	"__EMPTY_8": "1144",
+	"__EMPTY_9": "-1",
+	"__EMPTY_10": "-0.13"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "867",
+	"__EMPTY": "CHICKEN WHOLE BREADE",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "290.75",
+	"__EMPTY_3": "54",
+	"__EMPTY_4": "146",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "2",
+	"__EMPTY_8": "377",
+	"__EMPTY_9": "-3.75",
+	"__EMPTY_10": "-2.66"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "868",
+	"__EMPTY": "CHICKEN GRILLED WHOL",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "60",
+	"__EMPTY_3": "3",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0",
+	"__EMPTY_8": "57",
+	"__EMPTY_9": "0",
+	"__EMPTY_10": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "869",
+	"__EMPTY": "*new* BEEF PATTY WHO",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "67",
+	"__EMPTY_3": "355",
+	"__EMPTY_4": "1320",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "34",
+	"__EMPTY_8": "975",
+	"__EMPTY_9": "-23",
+	"__EMPTY_10": "-13.06"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "871",
+	"__EMPTY": "CHICKEN BREAST SPICY",
+	"__EMPTY_1": "CASE+     ",
+	"__EMPTY_2": "1.63",
+	"__EMPTY_3": "0.32",
+	"__EMPTY_4": "1",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0",
+	"__EMPTY_8": "2.29",
+	"__EMPTY_9": "0",
+	"__EMPTY_10": "0"
+},
+{
+	"__EMPTY_7": "52.15",
+	"__EMPTY_10": "-67.9"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "COUPONS                                 "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Name                ",
+	"__EMPTY": "CNT     ",
+	"__EMPTY_1": "AMT       "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Crew Meal 109           ",
+	"__EMPTY": "1",
+	"__EMPTY_1": "3.39"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Crew Meal 121           ",
+	"__EMPTY": "1",
+	"__EMPTY_1": "3.74"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Crew Meal 134           ",
+	"__EMPTY": "1",
+	"__EMPTY_1": "1.44"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Crew Meal 135           ",
+	"__EMPTY": "1",
+	"__EMPTY_1": "4.44"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "100% MANAGER MEAL       ",
+	"__EMPTY": "2",
+	"__EMPTY_1": "9.36"
+},
+{
+	"__EMPTY": "6",
+	"__EMPTY_1": "22.37"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "NUMBER OF CARS :   384        ",
+	"__EMPTY": "NUMBER PARKED :   0          ",
+	"__EMPTY_1": "EXCEED COUNT :   219        ",
+	"__EMPTY_2": "EXCEEDED PERCENT :   57.03%     ",
+	"__EMPTY_3": "AVE PARK TIME :   0          ",
+	"__EMPTY_4": "AVE TOTAL TIME :   3:35       "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "  TIME  ",
+	"__EMPTY": " BAG ID   ",
+	"__EMPTY_1": " MGR. ID ",
+	"__EMPTY_2": "   AMOUNT "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "18:23",
+	"__EMPTY": "5771809",
+	"__EMPTY_1": "102",
+	"__EMPTY_2": "1289.2"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "1:15",
+	"__EMPTY": "57718098",
+	"__EMPTY_1": "130",
+	"__EMPTY_2": "1438.69"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": " TOTAL DEPOSITS",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "2727.89"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Breakfast Sales                          377.46      (7.85%)   Count      78         Drive Thur                               3071.80     (63.88%)  Count      386        Average CheckCustomer Count              7.97        (0.16%)   Count      603       "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "OVER-RINGS                               COUPONS    22.37     ",
+	"__EMPTY": "MEALS           22.37          ",
+	"__EMPTY_1": "WASTE           52.15          "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Net Sales                ",
+	"__EMPTY": "4808.33"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Tax                      ",
+	"__EMPTY": "288.44"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Card Sold           ",
+	"__EMPTY": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Adjusted Gross Cash      ",
+	"__EMPTY": "5096.77"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Amount Deposited         ",
+	"__EMPTY": "2727.89"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Card Redeemed       ",
+	"__EMPTY": "31.8"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Credit                   ",
+	"__EMPTY": "2317.79"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Card Sold           ",
+	"__EMPTY": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Net Sales                ",
+	"__EMPTY": "-4808.33"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Tax                      ",
+	"__EMPTY": "-288.44"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Restaurant Over/Short    ",
+	"__EMPTY": "-19.29"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Cashier Over/Short       ",
+	"__EMPTY": "19.29"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Over Short Reconciliation",
+	"__EMPTY": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Net Sales                ",
+	"__EMPTY": "4808.33"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Non-Food Amount          ",
+	"__EMPTY": "-23.76"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Food Sales               ",
+	"__EMPTY": "4784.57"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "PETTY CASH                                   "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "MISC INCOME                                  "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Formula Hrs.",
+	"__EMPTY": "0",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "Actual Hrs. ",
+	"__EMPTY_4": "104.93",
+	"__EMPTY_5": "104.93",
+	"__EMPTY_6": "2856.25",
+	"__EMPTY_7": "Difference  ",
+	"__EMPTY_8": "104.93",
+	"__EMPTY_9": "104.93",
+	"__EMPTY_10": "2856.25"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "16543793.81                                                                                                                                                                                                                                                                                                                                                                "
+},
+{
+	"__EMPTY": "Today          ",
+	"__EMPTY_1": "W.T.D           Yesterday      ",
+	"__EMPTY_2": "W.T.D           Current        ",
+	"__EMPTY_3": "M.T.D           Yesterday      ",
+	"__EMPTY_4": "M.T.D           Current        "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Net Sales                     ",
+	"__EMPTY": "4808.33",
+	"__EMPTY_1": "27479.38",
+	"__EMPTY_2": "4808.33",
+	"__EMPTY_3": "27479.38",
+	"__EMPTY_4": "32287.71"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Food Sales Amount             ",
+	"__EMPTY": "4784.57",
+	"__EMPTY_1": "27358.6",
+	"__EMPTY_2": "4784.57",
+	"__EMPTY_3": "27358.6",
+	"__EMPTY_4": "32143.17"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Non-Food Amount               ",
+	"__EMPTY": "23.76",
+	"__EMPTY_1": "120.78",
+	"__EMPTY_2": "23.76",
+	"__EMPTY_3": "120.78",
+	"__EMPTY_4": "144.54"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Total-Tax Amount              ",
+	"__EMPTY": "288.44",
+	"__EMPTY_1": "1649.12",
+	"__EMPTY_2": "288.44",
+	"__EMPTY_3": "1649.12",
+	"__EMPTY_4": "1937.56"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Total Deposits Amount         ",
+	"__EMPTY": "2727.89",
+	"__EMPTY_1": "16976.41",
+	"__EMPTY_2": "2727.89",
+	"__EMPTY_3": "16976.41",
+	"__EMPTY_4": "19704.3"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Restaurant Over/Short         ",
+	"__EMPTY": "-19.29",
+	"__EMPTY_1": "-31.71",
+	"__EMPTY_2": "-19.29",
+	"__EMPTY_3": "-31.71",
+	"__EMPTY_4": "-51"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Cashier Over/Short            ",
+	"__EMPTY": "-19.29",
+	"__EMPTY_1": "-31.71",
+	"__EMPTY_2": "-19.29",
+	"__EMPTY_3": "-31.71",
+	"__EMPTY_4": "-51"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Customer Count                ",
+	"__EMPTY": "603",
+	"__EMPTY_1": "3315",
+	"__EMPTY_2": "603",
+	"__EMPTY_3": "3315",
+	"__EMPTY_4": "3918"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Average Overall Check         ",
+	"__EMPTY": "7.97",
+	"__EMPTY_1": "8.28",
+	"__EMPTY_2": "7.97",
+	"__EMPTY_3": "8.28",
+	"__EMPTY_4": "8.24"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Drive-Thru Amount             ",
+	"__EMPTY": "3071.8",
+	"__EMPTY_1": "18862.15",
+	"__EMPTY_2": "3071.8",
+	"__EMPTY_3": "18862.15",
+	"__EMPTY_4": "21933.95"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Eat-In Amount                 ",
+	"__EMPTY": "867.87",
+	"__EMPTY_1": "4626.64",
+	"__EMPTY_2": "867.87",
+	"__EMPTY_3": "4626.64",
+	"__EMPTY_4": "5494.51"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Take-Out Amount               ",
+	"__EMPTY": "868.66",
+	"__EMPTY_1": "3990.59",
+	"__EMPTY_2": "868.66",
+	"__EMPTY_3": "3990.59",
+	"__EMPTY_4": "4859.25"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Drive-Thru SOS                ",
+	"__EMPTY": "215.68",
+	"__EMPTY_1": "196.34",
+	"__EMPTY_2": "215.68",
+	"__EMPTY_3": "196.34",
+	"__EMPTY_4": "199.22"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Inventory Waste Amount        ",
+	"__EMPTY": "52.15",
+	"__EMPTY_1": "273.94",
+	"__EMPTY_2": "52.15",
+	"__EMPTY_3": "273.94",
+	"__EMPTY_4": "326.09"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "BREAKFAST                     ",
+	"__EMPTY": "377.46",
+	"__EMPTY_1": "2070.84",
+	"__EMPTY_2": "377.46",
+	"__EMPTY_3": "2070.84",
+	"__EMPTY_4": "2448.3"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "LUNCH                         ",
+	"__EMPTY": "1607.32",
+	"__EMPTY_1": "9500.49",
+	"__EMPTY_2": "1607.32",
+	"__EMPTY_3": "9500.49",
+	"__EMPTY_4": "11107.81"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "AFTERNOON                     ",
+	"__EMPTY": "1110.21",
+	"__EMPTY_1": "6539.94",
+	"__EMPTY_2": "1110.21",
+	"__EMPTY_3": "6539.94",
+	"__EMPTY_4": "7650.15"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "DINNER                        ",
+	"__EMPTY": "1305.67",
+	"__EMPTY_1": "6028.42",
+	"__EMPTY_2": "1305.67",
+	"__EMPTY_3": "6028.42",
+	"__EMPTY_4": "7334.09"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "LATE NIGHT                    ",
+	"__EMPTY": "340.86",
+	"__EMPTY_1": "2940.4",
+	"__EMPTY_2": "340.86",
+	"__EMPTY_3": "2940.4",
+	"__EMPTY_4": "3281.26"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Credit Issued Amount          ",
+	"__EMPTY": "2317.79",
+	"__EMPTY_1": "11987.72",
+	"__EMPTY_2": "2317.79",
+	"__EMPTY_3": "11987.72",
+	"__EMPTY_4": "14305.51"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "VISA                          ",
+	"__EMPTY": "1797.06",
+	"__EMPTY_1": "8320.73",
+	"__EMPTY_2": "1797.06",
+	"__EMPTY_3": "8320.73",
+	"__EMPTY_4": "10117.79"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Master Card                   ",
+	"__EMPTY": "465.14",
+	"__EMPTY_1": "3331.93",
+	"__EMPTY_2": "465.14",
+	"__EMPTY_3": "3331.93",
+	"__EMPTY_4": "3797.07"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Discover                      ",
+	"__EMPTY": "14.6",
+	"__EMPTY_1": "189.46",
+	"__EMPTY_2": "14.6",
+	"__EMPTY_3": "189.46",
+	"__EMPTY_4": "204.06"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "AMEX                          ",
+	"__EMPTY": "40.99",
+	"__EMPTY_1": "145.6",
+	"__EMPTY_2": "40.99",
+	"__EMPTY_3": "145.6",
+	"__EMPTY_4": "186.59"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Sales Amount             ",
+	"__EMPTY": "0",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "0",
+	"__EMPTY_4": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Cert. Amount             ",
+	"__EMPTY": "31.8",
+	"__EMPTY_1": "132.66",
+	"__EMPTY_2": "31.8",
+	"__EMPTY_3": "132.66",
+	"__EMPTY_4": "164.46"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Labor Actual - Daily*         ",
+	"__EMPTY": "1.74",
+	"__EMPTY_1": "11.63",
+	"__EMPTY_2": "1.74",
+	"__EMPTY_3": "11.63",
+	"__EMPTY_4": "13.38"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Labor Percent                 ",
+	"__EMPTY": "18.87",
+	"__EMPTY_1": "21.08",
+	"__EMPTY_2": "18.87",
+	"__EMPTY_3": "21.08",
+	"__EMPTY_4": "20.75"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Deleted Count                 ",
+	"__EMPTY": "28",
+	"__EMPTY_1": "151",
+	"__EMPTY_2": "28",
+	"__EMPTY_3": "151",
+	"__EMPTY_4": "179"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Deleted Amount                ",
+	"__EMPTY": "126.15",
+	"__EMPTY_1": "813.1",
+	"__EMPTY_2": "126.15",
+	"__EMPTY_3": "813.1",
+	"__EMPTY_4": "939.25"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Overring Count                ",
+	"__EMPTY": "3",
+	"__EMPTY_1": "8",
+	"__EMPTY_2": "3",
+	"__EMPTY_3": "8",
+	"__EMPTY_4": "11"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Overring Amount               ",
+	"__EMPTY": "30.77",
+	"__EMPTY_1": "56.13",
+	"__EMPTY_2": "30.77",
+	"__EMPTY_3": "56.13",
+	"__EMPTY_4": "86.9"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Kid Toy Count                 ",
+	"__EMPTY": "0",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "0",
+	"__EMPTY_4": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Kid Toy Amount                ",
+	"__EMPTY": "0",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "0",
+	"__EMPTY_4": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "NUM",
+	"__EMPTY": " NAME               ",
+	"__EMPTY_1": "UNIT      ",
+	"__EMPTY_2": "OPEN      ",
+	"__EMPTY_3": "USAGE     ",
+	"__EMPTY_4": "RECEIVED  ",
+	"__EMPTY_5": "TRANS IN  ",
+	"__EMPTY_6": "TRANS OUT ",
+	"__EMPTY_7": "WASTE     ",
+	"__EMPTY_8": "PHYS CNT  ",
+	"__EMPTY_9": "O/S       ",
+	"__EMPTY_10": "Amt O/S   "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "1",
+	"__EMPTY": "HASH BROWNS ROUND   ",
+	"__EMPTY_1": "POUND+    ",
+	"__EMPTY_2": "108.07",
+	"__EMPTY_3": "15.2",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "2.42",
+	"__EMPTY_8": "91.07",
+	"__EMPTY_9": "0.62",
+	"__EMPTY_10": "0.33"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "7",
+	"__EMPTY": "FRENCH TOAST STICKS ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "672",
+	"__EMPTY_3": "63",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "5",
+	"__EMPTY_8": "608",
+	"__EMPTY_9": "4",
+	"__EMPTY_10": "0.22"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "9",
+	"__EMPTY": "SAUSAGE PATTY       ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "426",
+	"__EMPTY_3": "51",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "11",
+	"__EMPTY_8": "365",
+	"__EMPTY_9": "1",
+	"__EMPTY_10": "0.16"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "54",
+	"__EMPTY": "BEEF PATTY JR WHOP 2",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "1937",
+	"__EMPTY_3": "436",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "24",
+	"__EMPTY_8": "1471",
+	"__EMPTY_9": "-6",
+	"__EMPTY_10": "-1.54"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "63",
+	"__EMPTY": "CHICKEN PATTY OCS BR",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "182",
+	"__EMPTY_3": "46",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "5",
+	"__EMPTY_8": "132",
+	"__EMPTY_9": "1",
+	"__EMPTY_10": "0.33"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "85",
+	"__EMPTY": "CHEESE AMERICAN SM (",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "4650",
+	"__EMPTY_3": "1069",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "11",
+	"__EMPTY_8": "3449",
+	"__EMPTY_9": "-121",
+	"__EMPTY_10": "-5.16"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "91",
+	"__EMPTY": "BUN WHOPPER 5in     ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "449",
+	"__EMPTY_3": "265",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "9",
+	"__EMPTY_8": "168",
+	"__EMPTY_9": "-7",
+	"__EMPTY_10": "-0.8"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "93",
+	"__EMPTY": "BUN BURGER (SEEDED) ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "696",
+	"__EMPTY_3": "412",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "5",
+	"__EMPTY_8": "264",
+	"__EMPTY_9": "-15",
+	"__EMPTY_10": "-1.14"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "95",
+	"__EMPTY": "BUN SPECIALTY       ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "129",
+	"__EMPTY_3": "46",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "4",
+	"__EMPTY_8": "77",
+	"__EMPTY_9": "-2",
+	"__EMPTY_10": "-0.24"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "209",
+	"__EMPTY": "MOZZARELLA STICKS   ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "504",
+	"__EMPTY_3": "108",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "8",
+	"__EMPTY_8": "383",
+	"__EMPTY_9": "-5",
+	"__EMPTY_10": "-0.5"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "363",
+	"__EMPTY": "BACON THICK SLICED R",
+	"__EMPTY_1": "CASE+     ",
+	"__EMPTY_2": "3.33",
+	"__EMPTY_3": "0.5",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0",
+	"__EMPTY_8": "2.83",
+	"__EMPTY_9": "0.01",
+	"__EMPTY_10": "0.9"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "368",
+	"__EMPTY": "FRIES COATED 3.8 IN ",
+	"__EMPTY_1": "POUND+    ",
+	"__EMPTY_2": "786",
+	"__EMPTY_3": "247.35",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "6",
+	"__EMPTY_8": "532.5",
+	"__EMPTY_9": "-0.14",
+	"__EMPTY_10": "-0.08"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "395",
+	"__EMPTY": "ONION RINGS RANDOM  ",
+	"__EMPTY_1": "POUND+    ",
+	"__EMPTY_2": "78.75",
+	"__EMPTY_3": "20.7",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "2.5",
+	"__EMPTY_8": "52.5",
+	"__EMPTY_9": "-3.04",
+	"__EMPTY_10": "-3.21"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "565",
+	"__EMPTY": "CHICKEN BREADED FRIE",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "1209",
+	"__EMPTY_3": "459",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "36",
+	"__EMPTY_8": "705",
+	"__EMPTY_9": "-9",
+	"__EMPTY_10": "-0.54"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "603",
+	"__EMPTY": "CHICKEN NUGGETS BREA",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "9424",
+	"__EMPTY_3": "1608",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "45",
+	"__EMPTY_8": "7776",
+	"__EMPTY_9": "5",
+	"__EMPTY_10": "0.27"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "634",
+	"__EMPTY": "BUN 4.25IN POTATO   ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "656",
+	"__EMPTY_3": "102",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "6",
+	"__EMPTY_8": "534",
+	"__EMPTY_9": "-14",
+	"__EMPTY_10": "-3.03"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "635",
+	"__EMPTY": "CROISSANT w/BUTTER F",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "396",
+	"__EMPTY_3": "72",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "5",
+	"__EMPTY_8": "319",
+	"__EMPTY_9": "0",
+	"__EMPTY_10": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "643",
+	"__EMPTY": "BREAD 4.25in SOURDOU",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "1186",
+	"__EMPTY_3": "54",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0",
+	"__EMPTY_8": "1114",
+	"__EMPTY_9": "-18",
+	"__EMPTY_10": "-2.5"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "867",
+	"__EMPTY": "CHICKEN WHOLE BREADE",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "558.5",
+	"__EMPTY_3": "57",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "4",
+	"__EMPTY_8": "497.75",
+	"__EMPTY_9": "0.25",
+	"__EMPTY_10": "0.17"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "868",
+	"__EMPTY": "CHICKEN GRILLED WHOL",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "169",
+	"__EMPTY_3": "3",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0",
+	"__EMPTY_8": "165",
+	"__EMPTY_9": "-1",
+	"__EMPTY_10": "-1.03"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "869",
+	"__EMPTY": "*new* BEEF PATTY WHO",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "1478",
+	"__EMPTY_3": "367",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "22",
+	"__EMPTY_8": "1078",
+	"__EMPTY_9": "-11",
+	"__EMPTY_10": "-6.23"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "871",
+	"__EMPTY": "CHICKEN BREAST SPICY",
+	"__EMPTY_1": "CASE+     ",
+	"__EMPTY_2": "2.33",
+	"__EMPTY_3": "0.25",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0.02",
+	"__EMPTY_8": "2.02",
+	"__EMPTY_9": "-0.03",
+	"__EMPTY_10": "-3.21"
+},
+{
+	"__EMPTY_7": "46.1",
+	"__EMPTY_10": "-26.87"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "COUPONS                                 "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Name                ",
+	"__EMPTY": "CNT     ",
+	"__EMPTY_1": "AMT       "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "BOGO CROIS              ",
+	"__EMPTY": "3",
+	"__EMPTY_1": "8.47"
+},
+{
+	"__EMPTY": "3",
+	"__EMPTY_1": "8.47"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "NUMBER OF CARS :   358        ",
+	"__EMPTY": "NUMBER PARKED :   0          ",
+	"__EMPTY_1": "EXCEED COUNT :   78         ",
+	"__EMPTY_2": "EXCEEDED PERCENT :   21.78%     ",
+	"__EMPTY_3": "AVE PARK TIME :   0          ",
+	"__EMPTY_4": "AVE TOTAL TIME :   2:10       "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "  TIME  ",
+	"__EMPTY": " BAG ID   ",
+	"__EMPTY_1": " MGR. ID ",
+	"__EMPTY_2": "   AMOUNT "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "2:03",
+	"__EMPTY": "3282018",
+	"__EMPTY_1": "119",
+	"__EMPTY_2": "3181"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": " TOTAL DEPOSITS",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "3181"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Breakfast Sales                          314.34      (5.84%)   Count      56         Drive Thur                               3323.70     (61.82%)  Count      359        Average CheckCustomer Count              8.88        (0.16%)   Count      605       "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "OVER-RINGS                               COUPONS    8.47      ",
+	"__EMPTY": "MEALS           0.00           ",
+	"__EMPTY_1": "WASTE           53.41          "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Net Sales                ",
+	"__EMPTY": "5375.61"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Tax                      ",
+	"__EMPTY": "430.1"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Card Sold           ",
+	"__EMPTY": "10"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Adjusted Gross Cash      ",
+	"__EMPTY": "5815.71"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Amount Deposited         ",
+	"__EMPTY": "3181"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Card Redeemed       ",
+	"__EMPTY": "45.52"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Credit                   ",
+	"__EMPTY": "2589.4"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Card Sold           ",
+	"__EMPTY": "-10"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Net Sales                ",
+	"__EMPTY": "-5375.61"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Tax                      ",
+	"__EMPTY": "-430.1"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Restaurant Over/Short    ",
+	"__EMPTY": "0.21"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Cashier Over/Short       ",
+	"__EMPTY": "-0.21"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Over Short Reconciliation",
+	"__EMPTY": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Net Sales                ",
+	"__EMPTY": "5375.61"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Non-Food Amount          ",
+	"__EMPTY": "-27.72"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Food Sales               ",
+	"__EMPTY": "5347.89"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "PETTY CASH                                   "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "MISC INCOME                                  "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Formula Hrs.",
+	"__EMPTY": "0",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "Actual Hrs. ",
+	"__EMPTY_4": "124.65",
+	"__EMPTY_5": "124.65",
+	"__EMPTY_6": "3000.48",
+	"__EMPTY_7": "Difference  ",
+	"__EMPTY_8": "124.65",
+	"__EMPTY_9": "124.65",
+	"__EMPTY_10": "3000.48"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "11891074.84                                                                                                                                                                                                                                                                                                                                                                "
+},
+{
+	"__EMPTY": "Today          ",
+	"__EMPTY_1": "W.T.D           Yesterday      ",
+	"__EMPTY_2": "W.T.D           Current        ",
+	"__EMPTY_3": "M.T.D           Yesterday      ",
+	"__EMPTY_4": "M.T.D           Current        "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Net Sales                     ",
+	"__EMPTY": "5375.61",
+	"__EMPTY_1": "30076.58",
+	"__EMPTY_2": "5375.61",
+	"__EMPTY_3": "30076.58",
+	"__EMPTY_4": "35452.19"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Food Sales Amount             ",
+	"__EMPTY": "5347.89",
+	"__EMPTY_1": "29914.22",
+	"__EMPTY_2": "5347.89",
+	"__EMPTY_3": "29914.22",
+	"__EMPTY_4": "35262.11"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Non-Food Amount               ",
+	"__EMPTY": "27.72",
+	"__EMPTY_1": "162.36",
+	"__EMPTY_2": "27.72",
+	"__EMPTY_3": "162.36",
+	"__EMPTY_4": "190.08"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Total-Tax Amount              ",
+	"__EMPTY": "430.1",
+	"__EMPTY_1": "2373.97",
+	"__EMPTY_2": "430.1",
+	"__EMPTY_3": "2373.97",
+	"__EMPTY_4": "2804.07"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Total Deposits Amount         ",
+	"__EMPTY": "3181",
+	"__EMPTY_1": "17952",
+	"__EMPTY_2": "3181",
+	"__EMPTY_3": "17952",
+	"__EMPTY_4": "21133"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Restaurant Over/Short         ",
+	"__EMPTY": "0.21",
+	"__EMPTY_1": "-12.38",
+	"__EMPTY_2": "0.21",
+	"__EMPTY_3": "-12.38",
+	"__EMPTY_4": "-12.17"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Cashier Over/Short            ",
+	"__EMPTY": "0.21",
+	"__EMPTY_1": "-25.44",
+	"__EMPTY_2": "0.21",
+	"__EMPTY_3": "-25.44",
+	"__EMPTY_4": "-25.23"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Customer Count                ",
+	"__EMPTY": "605",
+	"__EMPTY_1": "3351",
+	"__EMPTY_2": "605",
+	"__EMPTY_3": "3351",
+	"__EMPTY_4": "3956"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Average Overall Check         ",
+	"__EMPTY": "8.88",
+	"__EMPTY_1": "8.97",
+	"__EMPTY_2": "8.88",
+	"__EMPTY_3": "8.97",
+	"__EMPTY_4": "8.96"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Drive-Thru Amount             ",
+	"__EMPTY": "3323.7",
+	"__EMPTY_1": "18038.04",
+	"__EMPTY_2": "3323.7",
+	"__EMPTY_3": "18038.04",
+	"__EMPTY_4": "21361.74"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Eat-In Amount                 ",
+	"__EMPTY": "1268.45",
+	"__EMPTY_1": "7305.76",
+	"__EMPTY_2": "1268.45",
+	"__EMPTY_3": "7305.76",
+	"__EMPTY_4": "8574.21"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Take-Out Amount               ",
+	"__EMPTY": "783.46",
+	"__EMPTY_1": "4732.78",
+	"__EMPTY_2": "783.46",
+	"__EMPTY_3": "4732.78",
+	"__EMPTY_4": "5516.24"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Drive-Thru SOS                ",
+	"__EMPTY": "130.07",
+	"__EMPTY_1": "128.99",
+	"__EMPTY_2": "130.07",
+	"__EMPTY_3": "128.99",
+	"__EMPTY_4": "129.16"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Inventory Waste Amount        ",
+	"__EMPTY": "53.41",
+	"__EMPTY_1": "314.99",
+	"__EMPTY_2": "53.41",
+	"__EMPTY_3": "314.99",
+	"__EMPTY_4": "368.4"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "BREAKFAST                     ",
+	"__EMPTY": "314.34",
+	"__EMPTY_1": "1928.21",
+	"__EMPTY_2": "314.34",
+	"__EMPTY_3": "1928.21",
+	"__EMPTY_4": "2242.55"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "LUNCH                         ",
+	"__EMPTY": "1534.36",
+	"__EMPTY_1": "8772.3",
+	"__EMPTY_2": "1534.36",
+	"__EMPTY_3": "8772.3",
+	"__EMPTY_4": "10306.66"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "AFTERNOON                     ",
+	"__EMPTY": "1249.31",
+	"__EMPTY_1": "7336.6",
+	"__EMPTY_2": "1249.31",
+	"__EMPTY_3": "7336.6",
+	"__EMPTY_4": "8585.91"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "DINNER                        ",
+	"__EMPTY": "1650.88",
+	"__EMPTY_1": "7752.67",
+	"__EMPTY_2": "1650.88",
+	"__EMPTY_3": "7752.67",
+	"__EMPTY_4": "9403.55"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "LATE NIGHT                    ",
+	"__EMPTY": "521.74",
+	"__EMPTY_1": "3623.29",
+	"__EMPTY_2": "521.74",
+	"__EMPTY_3": "3623.29",
+	"__EMPTY_4": "4145.03"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Credit Issued Amount          ",
+	"__EMPTY": "2589.4",
+	"__EMPTY_1": "14248.89",
+	"__EMPTY_2": "2589.4",
+	"__EMPTY_3": "14248.89",
+	"__EMPTY_4": "16838.29"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "VISA                          ",
+	"__EMPTY": "2183.96",
+	"__EMPTY_1": "11885.94",
+	"__EMPTY_2": "2183.96",
+	"__EMPTY_3": "11885.94",
+	"__EMPTY_4": "14069.9"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Master Card                   ",
+	"__EMPTY": "273.8",
+	"__EMPTY_1": "1961.39",
+	"__EMPTY_2": "273.8",
+	"__EMPTY_3": "1961.39",
+	"__EMPTY_4": "2235.19"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Discover                      ",
+	"__EMPTY": "73.16",
+	"__EMPTY_1": "160.56",
+	"__EMPTY_2": "73.16",
+	"__EMPTY_3": "160.56",
+	"__EMPTY_4": "233.72"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "AMEX                          ",
+	"__EMPTY": "58.48",
+	"__EMPTY_1": "241",
+	"__EMPTY_2": "58.48",
+	"__EMPTY_3": "241",
+	"__EMPTY_4": "299.48"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Sales Amount             ",
+	"__EMPTY": "10",
+	"__EMPTY_1": "15",
+	"__EMPTY_2": "10",
+	"__EMPTY_3": "15",
+	"__EMPTY_4": "25"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Cert. Amount             ",
+	"__EMPTY": "45.52",
+	"__EMPTY_1": "200.22",
+	"__EMPTY_2": "45.52",
+	"__EMPTY_3": "200.22",
+	"__EMPTY_4": "245.74"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Labor Actual - Daily*         ",
+	"__EMPTY": "2.07",
+	"__EMPTY_1": "11.6",
+	"__EMPTY_2": "2.07",
+	"__EMPTY_3": "11.6",
+	"__EMPTY_4": "13.68"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Labor Percent                 ",
+	"__EMPTY": "19.55",
+	"__EMPTY_1": "18.74",
+	"__EMPTY_2": "19.55",
+	"__EMPTY_3": "18.74",
+	"__EMPTY_4": "18.86"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Deleted Count                 ",
+	"__EMPTY": "19",
+	"__EMPTY_1": "148",
+	"__EMPTY_2": "19",
+	"__EMPTY_3": "148",
+	"__EMPTY_4": "167"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Deleted Amount                ",
+	"__EMPTY": "129.64",
+	"__EMPTY_1": "786.9",
+	"__EMPTY_2": "129.64",
+	"__EMPTY_3": "786.9",
+	"__EMPTY_4": "916.54"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Overring Count                ",
+	"__EMPTY": "0",
+	"__EMPTY_1": "8",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "8",
+	"__EMPTY_4": "8"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Overring Amount               ",
+	"__EMPTY": "0",
+	"__EMPTY_1": "78.02",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "78.02",
+	"__EMPTY_4": "78.02"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Kid Toy Count                 ",
+	"__EMPTY": "0",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "0",
+	"__EMPTY_4": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Kid Toy Amount                ",
+	"__EMPTY": "0",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "0",
+	"__EMPTY_4": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "NUM",
+	"__EMPTY": " NAME               ",
+	"__EMPTY_1": "UNIT      ",
+	"__EMPTY_2": "OPEN      ",
+	"__EMPTY_3": "USAGE     ",
+	"__EMPTY_4": "RECEIVED  ",
+	"__EMPTY_5": "TRANS IN  ",
+	"__EMPTY_6": "TRANS OUT ",
+	"__EMPTY_7": "WASTE     ",
+	"__EMPTY_8": "PHYS CNT  ",
+	"__EMPTY_9": "O/S       ",
+	"__EMPTY_10": "Amt O/S   "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "1",
+	"__EMPTY": "HASH BROWNS ROUND   ",
+	"__EMPTY_1": "POUND+    ",
+	"__EMPTY_2": "111.71",
+	"__EMPTY_3": "16.84",
+	"__EMPTY_4": "29.14",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0",
+	"__EMPTY_8": "123.85",
+	"__EMPTY_9": "-0.15",
+	"__EMPTY_10": "-0.09"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "7",
+	"__EMPTY": "FRENCH TOAST STICKS ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "487",
+	"__EMPTY_3": "68",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "5",
+	"__EMPTY_8": "414",
+	"__EMPTY_9": "0",
+	"__EMPTY_10": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "9",
+	"__EMPTY": "SAUSAGE PATTY       ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "117",
+	"__EMPTY_3": "51.5",
+	"__EMPTY_4": "160",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "3",
+	"__EMPTY_8": "223",
+	"__EMPTY_9": "0.5",
+	"__EMPTY_10": "0.07"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "54",
+	"__EMPTY": "BEEF PATTY JR WHOP 2",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "1751",
+	"__EMPTY_3": "329",
+	"__EMPTY_4": "1380",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "38",
+	"__EMPTY_8": "2760",
+	"__EMPTY_9": "-4",
+	"__EMPTY_10": "-1.03"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "63",
+	"__EMPTY": "CHICKEN PATTY OCS BR",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "412",
+	"__EMPTY_3": "42",
+	"__EMPTY_4": "144",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "3",
+	"__EMPTY_8": "511",
+	"__EMPTY_9": "0",
+	"__EMPTY_10": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "85",
+	"__EMPTY": "CHEESE AMERICAN SM (",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "3200",
+	"__EMPTY_3": "863",
+	"__EMPTY_4": "1600",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "34",
+	"__EMPTY_8": "3860",
+	"__EMPTY_9": "-43",
+	"__EMPTY_10": "-1.83"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "91",
+	"__EMPTY": "BUN WHOPPER 5in     ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "294",
+	"__EMPTY_3": "238",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "23",
+	"__EMPTY_8": "22",
+	"__EMPTY_9": "-11",
+	"__EMPTY_10": "-1.27"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "93",
+	"__EMPTY": "BUN BURGER (SEEDED) ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "468",
+	"__EMPTY_3": "293",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "18",
+	"__EMPTY_8": "147",
+	"__EMPTY_9": "-10",
+	"__EMPTY_10": "-0.77"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "95",
+	"__EMPTY": "BUN SPECIALTY       ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "153",
+	"__EMPTY_3": "43",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "1",
+	"__EMPTY_8": "109",
+	"__EMPTY_9": "0",
+	"__EMPTY_10": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "209",
+	"__EMPTY": "MOZZARELLA STICKS   ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "488",
+	"__EMPTY_3": "92",
+	"__EMPTY_4": "480",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "12",
+	"__EMPTY_8": "863",
+	"__EMPTY_9": "-1",
+	"__EMPTY_10": "-0.1"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "363",
+	"__EMPTY": "BACON THICK SLICED R",
+	"__EMPTY_1": "CASE+     ",
+	"__EMPTY_2": "2.22",
+	"__EMPTY_3": "0.53",
+	"__EMPTY_4": "2",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0",
+	"__EMPTY_8": "3.71",
+	"__EMPTY_9": "0.02",
+	"__EMPTY_10": "1.81"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "368",
+	"__EMPTY": "FRIES COATED 3.8 IN ",
+	"__EMPTY_1": "POUND+    ",
+	"__EMPTY_2": "84",
+	"__EMPTY_3": "192.88",
+	"__EMPTY_4": "648",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "12",
+	"__EMPTY_8": "525",
+	"__EMPTY_9": "-2.11",
+	"__EMPTY_10": "-1.23"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "395",
+	"__EMPTY": "ONION RINGS RANDOM  ",
+	"__EMPTY_1": "POUND+    ",
+	"__EMPTY_2": "68.75",
+	"__EMPTY_3": "18.56",
+	"__EMPTY_4": "35",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "1.56",
+	"__EMPTY_8": "83.12",
+	"__EMPTY_9": "-0.5",
+	"__EMPTY_10": "-0.52"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "565",
+	"__EMPTY": "CHICKEN BREADED FRIE",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "2658",
+	"__EMPTY_3": "279",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "27",
+	"__EMPTY_8": "2349",
+	"__EMPTY_9": "-3",
+	"__EMPTY_10": "-0.18"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "603",
+	"__EMPTY": "CHICKEN NUGGETS BREA",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "2644",
+	"__EMPTY_3": "1114",
+	"__EMPTY_4": "3968",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0",
+	"__EMPTY_8": "5530",
+	"__EMPTY_9": "32",
+	"__EMPTY_10": "1.74"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "634",
+	"__EMPTY": "BUN 4.25IN POTATO   ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "637",
+	"__EMPTY_3": "107",
+	"__EMPTY_4": "300",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "10",
+	"__EMPTY_8": "818",
+	"__EMPTY_9": "-2",
+	"__EMPTY_10": "-0.43"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "635",
+	"__EMPTY": "CROISSANT w/BUTTER F",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "239",
+	"__EMPTY_3": "73",
+	"__EMPTY_4": "150",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "6",
+	"__EMPTY_8": "304",
+	"__EMPTY_9": "-6",
+	"__EMPTY_10": "-1.24"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "643",
+	"__EMPTY": "BREAD 4.25in SOURDOU",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "681",
+	"__EMPTY_3": "56",
+	"__EMPTY_4": "450",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "5",
+	"__EMPTY_8": "1055",
+	"__EMPTY_9": "-15",
+	"__EMPTY_10": "-2.08"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "867",
+	"__EMPTY": "CHICKEN WHOLE BREADE",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "466.25",
+	"__EMPTY_3": "56",
+	"__EMPTY_4": "146",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "6",
+	"__EMPTY_8": "547.5",
+	"__EMPTY_9": "-2.75",
+	"__EMPTY_10": "-1.95"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "868",
+	"__EMPTY": "CHICKEN GRILLED WHOL",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "146",
+	"__EMPTY_3": "5",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "2",
+	"__EMPTY_8": "138",
+	"__EMPTY_9": "-1",
+	"__EMPTY_10": "-1.01"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "869",
+	"__EMPTY": "*new* BEEF PATTY WHO",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "650",
+	"__EMPTY_3": "347",
+	"__EMPTY_4": "1320",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "17",
+	"__EMPTY_8": "1598",
+	"__EMPTY_9": "-8",
+	"__EMPTY_10": "-4.53"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "871",
+	"__EMPTY": "CHICKEN BREAST SPICY",
+	"__EMPTY_1": "CASE+     ",
+	"__EMPTY_2": "1.82",
+	"__EMPTY_3": "0.23",
+	"__EMPTY_4": "1",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0.04",
+	"__EMPTY_8": "2.52",
+	"__EMPTY_9": "-0.01",
+	"__EMPTY_10": "0"
+},
+{
+	"__EMPTY_7": "48.82",
+	"__EMPTY_10": "-14.69"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "COUPONS                                 "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Name                ",
+	"__EMPTY": "CNT     ",
+	"__EMPTY_1": "AMT       "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Crew Meal 120           ",
+	"__EMPTY": "1",
+	"__EMPTY_1": "2.54"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Crew Meal 124           ",
+	"__EMPTY": "1",
+	"__EMPTY_1": "2.79"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Crew Meal 130           ",
+	"__EMPTY": "1",
+	"__EMPTY_1": "2.94"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "% MILITARY              ",
+	"__EMPTY": "2",
+	"__EMPTY_1": "0.65"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "100% TEAM               ",
+	"__EMPTY": "2",
+	"__EMPTY_1": "9.97"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "CENTS OFF               ",
+	"__EMPTY": "3",
+	"__EMPTY_1": "5.76"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "FREE COMPETITOR COUP    ",
+	"__EMPTY": "2",
+	"__EMPTY_1": "7.18"
+},
+{
+	"__EMPTY": "12",
+	"__EMPTY_1": "31.83"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "NUMBER OF CARS :   372        ",
+	"__EMPTY": "NUMBER PARKED :   0          ",
+	"__EMPTY_1": "EXCEED COUNT :   106        ",
+	"__EMPTY_2": "EXCEEDED PERCENT :   28.49%     ",
+	"__EMPTY_3": "AVE PARK TIME :   0          ",
+	"__EMPTY_4": "AVE TOTAL TIME :   2:23       "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "  TIME  ",
+	"__EMPTY": " BAG ID   ",
+	"__EMPTY_1": " MGR. ID ",
+	"__EMPTY_2": "   AMOUNT "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "17:00",
+	"__EMPTY": "55614307",
+	"__EMPTY_1": "119",
+	"__EMPTY_2": "711.09"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "0:39",
+	"__EMPTY": "55614306",
+	"__EMPTY_1": "128",
+	"__EMPTY_2": "2118.24"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": " TOTAL DEPOSITS",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "2829.33"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Breakfast Sales                          332.42      (7.10%)   Count      57         Drive Thur                               3288.84     (70.27%)  Count      371        Average CheckCustomer Count              8.86        (0.18%)   Count      528       "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "OVER-RINGS                               COUPONS    31.83     ",
+	"__EMPTY": "MEALS           18.24          ",
+	"__EMPTY_1": "WASTE           55.83          "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Net Sales                ",
+	"__EMPTY": "4679.68"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Tax                      ",
+	"__EMPTY": "310.26"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Card Sold           ",
+	"__EMPTY": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Adjusted Gross Cash      ",
+	"__EMPTY": "4989.94"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Amount Deposited         ",
+	"__EMPTY": "2829.33"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Card Redeemed       ",
+	"__EMPTY": "15.32"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Credit                   ",
+	"__EMPTY": "2127.27"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Card Sold           ",
+	"__EMPTY": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Net Sales                ",
+	"__EMPTY": "-4679.68"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Tax                      ",
+	"__EMPTY": "-310.26"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Restaurant Over/Short    ",
+	"__EMPTY": "-18.02"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Cashier Over/Short       ",
+	"__EMPTY": "18.02"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Over Short Reconciliation",
+	"__EMPTY": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Net Sales                ",
+	"__EMPTY": "4679.68"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Non-Food Amount          ",
+	"__EMPTY": "-23.1"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Food Sales               ",
+	"__EMPTY": "4656.58"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "PETTY CASH                                   "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "MISC INCOME                                  "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Formula Hrs.",
+	"__EMPTY": "0",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "Actual Hrs. ",
+	"__EMPTY_4": "105.31",
+	"__EMPTY_5": "105.31",
+	"__EMPTY_6": "2608.29",
+	"__EMPTY_7": "Difference  ",
+	"__EMPTY_8": "105.31",
+	"__EMPTY_9": "105.31",
+	"__EMPTY_10": "2608.29"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "11616606.66                                                                                                                                                                                                                                                                                                                                                                "
+},
+{
+	"__EMPTY": "Today          ",
+	"__EMPTY_1": "W.T.D           Yesterday      ",
+	"__EMPTY_2": "W.T.D           Current        ",
+	"__EMPTY_3": "M.T.D           Yesterday      ",
+	"__EMPTY_4": "M.T.D           Current        "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Net Sales                     ",
+	"__EMPTY": "4679.68",
+	"__EMPTY_1": "30619.77",
+	"__EMPTY_2": "4679.68",
+	"__EMPTY_3": "30619.77",
+	"__EMPTY_4": "35299.45"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Food Sales Amount             ",
+	"__EMPTY": "4656.58",
+	"__EMPTY_1": "30481.83",
+	"__EMPTY_2": "4656.58",
+	"__EMPTY_3": "30481.83",
+	"__EMPTY_4": "35138.41"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Non-Food Amount               ",
+	"__EMPTY": "23.1",
+	"__EMPTY_1": "137.94",
+	"__EMPTY_2": "23.1",
+	"__EMPTY_3": "137.94",
+	"__EMPTY_4": "161.04"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Total-Tax Amount              ",
+	"__EMPTY": "310.26",
+	"__EMPTY_1": "2030.27",
+	"__EMPTY_2": "310.26",
+	"__EMPTY_3": "2030.27",
+	"__EMPTY_4": "2340.53"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Total Deposits Amount         ",
+	"__EMPTY": "2829.33",
+	"__EMPTY_1": "18718.64",
+	"__EMPTY_2": "2829.33",
+	"__EMPTY_3": "18718.64",
+	"__EMPTY_4": "21547.97"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Restaurant Over/Short         ",
+	"__EMPTY": "-18.02",
+	"__EMPTY_1": "-23.83",
+	"__EMPTY_2": "-18.02",
+	"__EMPTY_3": "-23.83",
+	"__EMPTY_4": "-41.85"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Cashier Over/Short            ",
+	"__EMPTY": "-18.02",
+	"__EMPTY_1": "-23.83",
+	"__EMPTY_2": "-18.02",
+	"__EMPTY_3": "-23.83",
+	"__EMPTY_4": "-41.85"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Customer Count                ",
+	"__EMPTY": "528",
+	"__EMPTY_1": "3242",
+	"__EMPTY_2": "528",
+	"__EMPTY_3": "3242",
+	"__EMPTY_4": "3770"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Average Overall Check         ",
+	"__EMPTY": "8.86",
+	"__EMPTY_1": "9.44",
+	"__EMPTY_2": "8.86",
+	"__EMPTY_3": "9.44",
+	"__EMPTY_4": "9.36"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Drive-Thru Amount             ",
+	"__EMPTY": "3288.84",
+	"__EMPTY_1": "20121.44",
+	"__EMPTY_2": "3288.84",
+	"__EMPTY_3": "20121.44",
+	"__EMPTY_4": "23410.28"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Eat-In Amount                 ",
+	"__EMPTY": "785.85",
+	"__EMPTY_1": "5672.77",
+	"__EMPTY_2": "785.85",
+	"__EMPTY_3": "5672.77",
+	"__EMPTY_4": "6458.62"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Take-Out Amount               ",
+	"__EMPTY": "604.99",
+	"__EMPTY_1": "4825.56",
+	"__EMPTY_2": "604.99",
+	"__EMPTY_3": "4825.56",
+	"__EMPTY_4": "5430.55"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Drive-Thru SOS                ",
+	"__EMPTY": "143.58",
+	"__EMPTY_1": "117.75",
+	"__EMPTY_2": "143.58",
+	"__EMPTY_3": "117.75",
+	"__EMPTY_4": "121.56"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Inventory Waste Amount        ",
+	"__EMPTY": "55.83",
+	"__EMPTY_1": "298.21",
+	"__EMPTY_2": "55.83",
+	"__EMPTY_3": "298.21",
+	"__EMPTY_4": "354.04"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "BREAKFAST                     ",
+	"__EMPTY": "332.42",
+	"__EMPTY_1": "1653.1",
+	"__EMPTY_2": "332.42",
+	"__EMPTY_3": "1653.1",
+	"__EMPTY_4": "1985.52"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "LUNCH                         ",
+	"__EMPTY": "1369.43",
+	"__EMPTY_1": "9488.17",
+	"__EMPTY_2": "1369.43",
+	"__EMPTY_3": "9488.17",
+	"__EMPTY_4": "10857.6"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "AFTERNOON                     ",
+	"__EMPTY": "1125.18",
+	"__EMPTY_1": "7018.16",
+	"__EMPTY_2": "1125.18",
+	"__EMPTY_3": "7018.16",
+	"__EMPTY_4": "8143.34"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "DINNER                        ",
+	"__EMPTY": "1217.92",
+	"__EMPTY_1": "8339",
+	"__EMPTY_2": "1217.92",
+	"__EMPTY_3": "8339",
+	"__EMPTY_4": "9556.92"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "LATE NIGHT                    ",
+	"__EMPTY": "591.18",
+	"__EMPTY_1": "3676.1",
+	"__EMPTY_2": "591.18",
+	"__EMPTY_3": "3676.1",
+	"__EMPTY_4": "4267.28"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Credit Issued Amount          ",
+	"__EMPTY": "2127.27",
+	"__EMPTY_1": "13844.61",
+	"__EMPTY_2": "2127.27",
+	"__EMPTY_3": "13844.61",
+	"__EMPTY_4": "15971.88"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "VISA                          ",
+	"__EMPTY": "1434.64",
+	"__EMPTY_1": "9734.96",
+	"__EMPTY_2": "1434.64",
+	"__EMPTY_3": "9734.96",
+	"__EMPTY_4": "11169.6"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Master Card                   ",
+	"__EMPTY": "619.26",
+	"__EMPTY_1": "3706.5",
+	"__EMPTY_2": "619.26",
+	"__EMPTY_3": "3706.5",
+	"__EMPTY_4": "4325.76"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Discover                      ",
+	"__EMPTY": "49.33",
+	"__EMPTY_1": "234.34",
+	"__EMPTY_2": "49.33",
+	"__EMPTY_3": "234.34",
+	"__EMPTY_4": "283.67"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "AMEX                          ",
+	"__EMPTY": "24.04",
+	"__EMPTY_1": "168.81",
+	"__EMPTY_2": "24.04",
+	"__EMPTY_3": "168.81",
+	"__EMPTY_4": "192.85"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Sales Amount             ",
+	"__EMPTY": "0",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "0",
+	"__EMPTY_4": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Cert. Amount             ",
+	"__EMPTY": "15.32",
+	"__EMPTY_1": "62.96",
+	"__EMPTY_2": "15.32",
+	"__EMPTY_3": "62.96",
+	"__EMPTY_4": "78.28"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Labor Actual - Daily*         ",
+	"__EMPTY": "1.75",
+	"__EMPTY_1": "10.4",
+	"__EMPTY_2": "1.75",
+	"__EMPTY_3": "10.4",
+	"__EMPTY_4": "12.15"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Labor Percent                 ",
+	"__EMPTY": "20.78",
+	"__EMPTY_1": "18.71",
+	"__EMPTY_2": "20.78",
+	"__EMPTY_3": "18.71",
+	"__EMPTY_4": "18.98"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Deleted Count                 ",
+	"__EMPTY": "29",
+	"__EMPTY_1": "117",
+	"__EMPTY_2": "29",
+	"__EMPTY_3": "117",
+	"__EMPTY_4": "146"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Deleted Amount                ",
+	"__EMPTY": "184.31",
+	"__EMPTY_1": "691.49",
+	"__EMPTY_2": "184.31",
+	"__EMPTY_3": "691.49",
+	"__EMPTY_4": "875.8"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Overring Count                ",
+	"__EMPTY": "2",
+	"__EMPTY_1": "10",
+	"__EMPTY_2": "2",
+	"__EMPTY_3": "10",
+	"__EMPTY_4": "12"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Overring Amount               ",
+	"__EMPTY": "17.83",
+	"__EMPTY_1": "83.84",
+	"__EMPTY_2": "17.83",
+	"__EMPTY_3": "83.84",
+	"__EMPTY_4": "101.67"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Kid Toy Count                 ",
+	"__EMPTY": "0",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "0",
+	"__EMPTY_4": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Kid Toy Amount                ",
+	"__EMPTY": "0",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "0",
+	"__EMPTY_4": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "NUM",
+	"__EMPTY": " NAME               ",
+	"__EMPTY_1": "UNIT      ",
+	"__EMPTY_2": "OPEN      ",
+	"__EMPTY_3": "USAGE     ",
+	"__EMPTY_4": "RECEIVED  ",
+	"__EMPTY_5": "TRANS IN  ",
+	"__EMPTY_6": "TRANS OUT ",
+	"__EMPTY_7": "WASTE     ",
+	"__EMPTY_8": "PHYS CNT  ",
+	"__EMPTY_9": "O/S       ",
+	"__EMPTY_10": "Amt O/S   "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "1",
+	"__EMPTY": "HASH BROWNS ROUND   ",
+	"__EMPTY_1": "POUND+    ",
+	"__EMPTY_2": "35.21",
+	"__EMPTY_3": "20.95",
+	"__EMPTY_4": "58.28",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "2.42",
+	"__EMPTY_8": "70.11",
+	"__EMPTY_9": "0",
+	"__EMPTY_10": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "7",
+	"__EMPTY": "FRENCH TOAST STICKS ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "17",
+	"__EMPTY_3": "56",
+	"__EMPTY_4": "304",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "12",
+	"__EMPTY_8": "253",
+	"__EMPTY_9": "0",
+	"__EMPTY_10": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "9",
+	"__EMPTY": "SAUSAGE PATTY       ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "268",
+	"__EMPTY_3": "84.5",
+	"__EMPTY_4": "160",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "8",
+	"__EMPTY_8": "352",
+	"__EMPTY_9": "16.5",
+	"__EMPTY_10": "2.61"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "54",
+	"__EMPTY": "BEEF PATTY JR WHOP 2",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "2483",
+	"__EMPTY_3": "390",
+	"__EMPTY_4": "1104",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "12",
+	"__EMPTY_8": "3180",
+	"__EMPTY_9": "-5",
+	"__EMPTY_10": "-1.25"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "63",
+	"__EMPTY": "CHICKEN PATTY OCS BR",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "162",
+	"__EMPTY_3": "41",
+	"__EMPTY_4": "144",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "4",
+	"__EMPTY_8": "260",
+	"__EMPTY_9": "-1",
+	"__EMPTY_10": "-0.33"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "85",
+	"__EMPTY": "CHEESE AMERICAN SM (",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "3111",
+	"__EMPTY_3": "932",
+	"__EMPTY_4": "3200",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "20",
+	"__EMPTY_8": "5200",
+	"__EMPTY_9": "-159",
+	"__EMPTY_10": "-6.78"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "91",
+	"__EMPTY": "BUN WHOPPER 5in     ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "371",
+	"__EMPTY_3": "217",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "5",
+	"__EMPTY_8": "139",
+	"__EMPTY_9": "-10",
+	"__EMPTY_10": "-1.15"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "93",
+	"__EMPTY": "BUN BURGER (SEEDED) ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "536",
+	"__EMPTY_3": "364",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "6",
+	"__EMPTY_8": "141",
+	"__EMPTY_9": "-25",
+	"__EMPTY_10": "-1.94"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "95",
+	"__EMPTY": "BUN SPECIALTY       ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "139",
+	"__EMPTY_3": "43",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "4",
+	"__EMPTY_8": "87",
+	"__EMPTY_9": "-5",
+	"__EMPTY_10": "-0.6"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "209",
+	"__EMPTY": "MOZZARELLA STICKS   ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "489",
+	"__EMPTY_3": "72",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "8",
+	"__EMPTY_8": "415",
+	"__EMPTY_9": "6",
+	"__EMPTY_10": "0.47"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "363",
+	"__EMPTY": "BACON THICK SLICED R",
+	"__EMPTY_1": "CASE+     ",
+	"__EMPTY_2": "1.22",
+	"__EMPTY_3": "0.5",
+	"__EMPTY_4": "2",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0.03",
+	"__EMPTY_8": "2.72",
+	"__EMPTY_9": "0.04",
+	"__EMPTY_10": "3.47"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "368",
+	"__EMPTY": "FRIES COATED 3.8 IN ",
+	"__EMPTY_1": "POUND+    ",
+	"__EMPTY_2": "21",
+	"__EMPTY_3": "200.78",
+	"__EMPTY_4": "720",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "6",
+	"__EMPTY_8": "525",
+	"__EMPTY_9": "-9.21",
+	"__EMPTY_10": "-5.39"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "395",
+	"__EMPTY": "ONION RINGS RANDOM  ",
+	"__EMPTY_1": "POUND+    ",
+	"__EMPTY_2": "52.5",
+	"__EMPTY_3": "15",
+	"__EMPTY_4": "35",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "2.5",
+	"__EMPTY_8": "68.75",
+	"__EMPTY_9": "-1.24",
+	"__EMPTY_10": "-1.31"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "565",
+	"__EMPTY": "CHICKEN BREADED FRIE",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "1560",
+	"__EMPTY_3": "270",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "18",
+	"__EMPTY_8": "1244",
+	"__EMPTY_9": "-28",
+	"__EMPTY_10": "-1.7"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "603",
+	"__EMPTY": "CHICKEN NUGGETS BREA",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "1996",
+	"__EMPTY_3": "1010",
+	"__EMPTY_4": "2976",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "30",
+	"__EMPTY_8": "3952",
+	"__EMPTY_9": "20",
+	"__EMPTY_10": "1.08"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "634",
+	"__EMPTY": "BUN 4.25IN POTATO   ",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "164",
+	"__EMPTY_3": "142",
+	"__EMPTY_4": "400",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "3",
+	"__EMPTY_8": "409",
+	"__EMPTY_9": "-10",
+	"__EMPTY_10": "-2.17"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "635",
+	"__EMPTY": "CROISSANT w/BUTTER F",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "295",
+	"__EMPTY_3": "79",
+	"__EMPTY_4": "300",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "3",
+	"__EMPTY_8": "512",
+	"__EMPTY_9": "-1",
+	"__EMPTY_10": "-0.21"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "643",
+	"__EMPTY": "BREAD 4.25in SOURDOU",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "676",
+	"__EMPTY_3": "70",
+	"__EMPTY_4": "450",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "2",
+	"__EMPTY_8": "1039",
+	"__EMPTY_9": "-15",
+	"__EMPTY_10": "-2.08"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "867",
+	"__EMPTY": "CHICKEN WHOLE BREADE",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "412.5",
+	"__EMPTY_3": "79",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "4",
+	"__EMPTY_8": "318.25",
+	"__EMPTY_9": "-11.25",
+	"__EMPTY_10": "-7.99"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "868",
+	"__EMPTY": "CHICKEN GRILLED WHOL",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "113",
+	"__EMPTY_3": "4",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0",
+	"__EMPTY_8": "110",
+	"__EMPTY_9": "1",
+	"__EMPTY_10": "1.03"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "869",
+	"__EMPTY": "*new* BEEF PATTY WHO",
+	"__EMPTY_1": "EACH+     ",
+	"__EMPTY_2": "432",
+	"__EMPTY_3": "326",
+	"__EMPTY_4": "1056",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "9",
+	"__EMPTY_8": "1123",
+	"__EMPTY_9": "-30",
+	"__EMPTY_10": "-16.99"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "871",
+	"__EMPTY": "CHICKEN BREAST SPICY",
+	"__EMPTY_1": "CASE+     ",
+	"__EMPTY_2": "2.7",
+	"__EMPTY_3": "0.35",
+	"__EMPTY_4": "0",
+	"__EMPTY_5": "0",
+	"__EMPTY_6": "0",
+	"__EMPTY_7": "0.03",
+	"__EMPTY_8": "2.29",
+	"__EMPTY_9": "-0.01",
+	"__EMPTY_10": "-1.96"
+},
+{
+	"__EMPTY_7": "35.56",
+	"__EMPTY_10": "-43.23"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "COUPONS                                 "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Name                ",
+	"__EMPTY": "CNT     ",
+	"__EMPTY_1": "AMT       "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Crew Meal 159           ",
+	"__EMPTY": "1",
+	"__EMPTY_1": "1.17"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "BOGO CROIS              ",
+	"__EMPTY": "1",
+	"__EMPTY_1": "2.99"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "100% MANAGER MEAL       ",
+	"__EMPTY": "4",
+	"__EMPTY_1": "29.91"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "CENTS OFF               ",
+	"__EMPTY": "3",
+	"__EMPTY_1": "7.2"
+},
+{
+	"__EMPTY": "9",
+	"__EMPTY_1": "41.27"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "NUMBER OF CARS :   390        ",
+	"__EMPTY": "NUMBER PARKED :   0          ",
+	"__EMPTY_1": "EXCEED COUNT :   129        ",
+	"__EMPTY_2": "EXCEEDED PERCENT :   33.07%     ",
+	"__EMPTY_3": "AVE PARK TIME :   0          ",
+	"__EMPTY_4": "AVE TOTAL TIME :   2:31       "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "  TIME  ",
+	"__EMPTY": " BAG ID   ",
+	"__EMPTY_1": " MGR. ID ",
+	"__EMPTY_2": "   AMOUNT "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "16:52",
+	"__EMPTY": "62150555",
+	"__EMPTY_1": "101",
+	"__EMPTY_2": "1834.16"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "0:46",
+	"__EMPTY": "62150556",
+	"__EMPTY_1": "102",
+	"__EMPTY_2": "1153.09"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": " TOTAL DEPOSITS",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "2987.25"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Breakfast Sales                          492.35      (10.03%)  Count      93         Drive Thur                               3152.29     (64.23%)  Count      394        Average CheckCustomer Count              8.04        (0.16%)   Count      610       "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "OVER-RINGS                               COUPONS    41.27     ",
+	"__EMPTY": "MEALS           31.08          ",
+	"__EMPTY_1": "WASTE           52.20          "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Net Sales                ",
+	"__EMPTY": "4907.06"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Tax                      ",
+	"__EMPTY": "325.77"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Card Sold           ",
+	"__EMPTY": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Adjusted Gross Cash      ",
+	"__EMPTY": "5232.83"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Amount Deposited         ",
+	"__EMPTY": "2987.25"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Card Redeemed       ",
+	"__EMPTY": "14.16"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Credit                   ",
+	"__EMPTY": "2229.92"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Card Sold           ",
+	"__EMPTY": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Net Sales                ",
+	"__EMPTY": "-4907.06"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Tax                      ",
+	"__EMPTY": "-325.77"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Restaurant Over/Short    ",
+	"__EMPTY": "-1.5"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Cashier Over/Short       ",
+	"__EMPTY": "1.5"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Over Short Reconciliation",
+	"__EMPTY": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Net Sales                ",
+	"__EMPTY": "4907.06"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Non-Food Amount          ",
+	"__EMPTY": "-17.16"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Food Sales               ",
+	"__EMPTY": "4889.9"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "PETTY CASH                                   "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "MISC INCOME                                  "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Formula Hrs.",
+	"__EMPTY": "0",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "Actual Hrs. ",
+	"__EMPTY_4": "116.25",
+	"__EMPTY_5": "116.25",
+	"__EMPTY_6": "2714.58",
+	"__EMPTY_7": "Difference  ",
+	"__EMPTY_8": "116.25",
+	"__EMPTY_9": "116.25",
+	"__EMPTY_10": "2714.58"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "10118744.33                                                                                                                                                                                                                                                                                                                                                                "
+},
+{
+	"__EMPTY": "Today          ",
+	"__EMPTY_1": "W.T.D           Yesterday      ",
+	"__EMPTY_2": "W.T.D           Current        ",
+	"__EMPTY_3": "M.T.D           Yesterday      ",
+	"__EMPTY_4": "M.T.D           Current        "
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Net Sales                     ",
+	"__EMPTY": "4907.06",
+	"__EMPTY_1": "25541.59",
+	"__EMPTY_2": "4907.06",
+	"__EMPTY_3": "25541.59",
+	"__EMPTY_4": "30448.65"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Food Sales Amount             ",
+	"__EMPTY": "4889.9",
+	"__EMPTY_1": "25443.25",
+	"__EMPTY_2": "4889.9",
+	"__EMPTY_3": "25443.25",
+	"__EMPTY_4": "30333.15"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Non-Food Amount               ",
+	"__EMPTY": "17.16",
+	"__EMPTY_1": "98.34",
+	"__EMPTY_2": "17.16",
+	"__EMPTY_3": "98.34",
+	"__EMPTY_4": "115.5"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Total-Tax Amount              ",
+	"__EMPTY": "325.77",
+	"__EMPTY_1": "1692.99",
+	"__EMPTY_2": "325.77",
+	"__EMPTY_3": "1692.99",
+	"__EMPTY_4": "2018.76"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Total Deposits Amount         ",
+	"__EMPTY": "2987.25",
+	"__EMPTY_1": "14759.26",
+	"__EMPTY_2": "2987.25",
+	"__EMPTY_3": "14759.26",
+	"__EMPTY_4": "17746.51"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Restaurant Over/Short         ",
+	"__EMPTY": "-1.5",
+	"__EMPTY_1": "-6.7",
+	"__EMPTY_2": "-1.5",
+	"__EMPTY_3": "-6.7",
+	"__EMPTY_4": "-8.2"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Cashier Over/Short            ",
+	"__EMPTY": "-1.5",
+	"__EMPTY_1": "-6.7",
+	"__EMPTY_2": "-1.5",
+	"__EMPTY_3": "-6.7",
+	"__EMPTY_4": "-8.2"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Customer Count                ",
+	"__EMPTY": "610",
+	"__EMPTY_1": "3004",
+	"__EMPTY_2": "610",
+	"__EMPTY_3": "3004",
+	"__EMPTY_4": "3614"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Average Overall Check         ",
+	"__EMPTY": "8.04",
+	"__EMPTY_1": "8.5",
+	"__EMPTY_2": "8.04",
+	"__EMPTY_3": "8.5",
+	"__EMPTY_4": "8.42"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Drive-Thru Amount             ",
+	"__EMPTY": "3152.29",
+	"__EMPTY_1": "16616.63",
+	"__EMPTY_2": "3152.29",
+	"__EMPTY_3": "16616.63",
+	"__EMPTY_4": "19768.92"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Eat-In Amount                 ",
+	"__EMPTY": "645.56",
+	"__EMPTY_1": "4216.59",
+	"__EMPTY_2": "645.56",
+	"__EMPTY_3": "4216.59",
+	"__EMPTY_4": "4862.15"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Take-Out Amount               ",
+	"__EMPTY": "1109.21",
+	"__EMPTY_1": "4708.37",
+	"__EMPTY_2": "1109.21",
+	"__EMPTY_3": "4708.37",
+	"__EMPTY_4": "5817.58"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Drive-Thru SOS                ",
+	"__EMPTY": "151.96",
+	"__EMPTY_1": "154.69",
+	"__EMPTY_2": "151.96",
+	"__EMPTY_3": "154.69",
+	"__EMPTY_4": "154.23"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Inventory Waste Amount        ",
+	"__EMPTY": "52.2",
+	"__EMPTY_1": "271.04",
+	"__EMPTY_2": "52.2",
+	"__EMPTY_3": "271.04",
+	"__EMPTY_4": "323.24"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "BREAKFAST                     ",
+	"__EMPTY": "492.35",
+	"__EMPTY_1": "1660",
+	"__EMPTY_2": "492.35",
+	"__EMPTY_3": "1660",
+	"__EMPTY_4": "2152.35"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "LUNCH                         ",
+	"__EMPTY": "1594.32",
+	"__EMPTY_1": "8801.67",
+	"__EMPTY_2": "1594.32",
+	"__EMPTY_3": "8801.67",
+	"__EMPTY_4": "10395.99"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "AFTERNOON                     ",
+	"__EMPTY": "1136.66",
+	"__EMPTY_1": "5796.51",
+	"__EMPTY_2": "1136.66",
+	"__EMPTY_3": "5796.51",
+	"__EMPTY_4": "6933.17"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "DINNER                        ",
+	"__EMPTY": "1143.27",
+	"__EMPTY_1": "5789.65",
+	"__EMPTY_2": "1143.27",
+	"__EMPTY_3": "5789.65",
+	"__EMPTY_4": "6932.92"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "LATE NIGHT                    ",
+	"__EMPTY": "498.69",
+	"__EMPTY_1": "3116.42",
+	"__EMPTY_2": "498.69",
+	"__EMPTY_3": "3116.42",
+	"__EMPTY_4": "3615.11"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Credit Issued Amount          ",
+	"__EMPTY": "2229.92",
+	"__EMPTY_1": "12371.76",
+	"__EMPTY_2": "2229.92",
+	"__EMPTY_3": "12371.76",
+	"__EMPTY_4": "14601.68"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "VISA                          ",
+	"__EMPTY": "1721.68",
+	"__EMPTY_1": "9720.47",
+	"__EMPTY_2": "1721.68",
+	"__EMPTY_3": "9720.47",
+	"__EMPTY_4": "11442.15"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Master Card                   ",
+	"__EMPTY": "441.45",
+	"__EMPTY_1": "2181.85",
+	"__EMPTY_2": "441.45",
+	"__EMPTY_3": "2181.85",
+	"__EMPTY_4": "2623.3"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Discover                      ",
+	"__EMPTY": "16.48",
+	"__EMPTY_1": "166.88",
+	"__EMPTY_2": "16.48",
+	"__EMPTY_3": "166.88",
+	"__EMPTY_4": "183.36"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "AMEX                          ",
+	"__EMPTY": "50.31",
+	"__EMPTY_1": "302.56",
+	"__EMPTY_2": "50.31",
+	"__EMPTY_3": "302.56",
+	"__EMPTY_4": "352.87"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Sales Amount             ",
+	"__EMPTY": "0",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "0",
+	"__EMPTY_4": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Gift Cert. Amount             ",
+	"__EMPTY": "14.16",
+	"__EMPTY_1": "80.92",
+	"__EMPTY_2": "14.16",
+	"__EMPTY_3": "80.92",
+	"__EMPTY_4": "95.08"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Labor Actual - Daily*         ",
+	"__EMPTY": "1.93",
+	"__EMPTY_1": "10.92",
+	"__EMPTY_2": "1.93",
+	"__EMPTY_3": "10.92",
+	"__EMPTY_4": "12.86"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Labor Percent                 ",
+	"__EMPTY": "21.38",
+	"__EMPTY_1": "23.07",
+	"__EMPTY_2": "21.38",
+	"__EMPTY_3": "23.07",
+	"__EMPTY_4": "22.8"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Deleted Count                 ",
+	"__EMPTY": "26",
+	"__EMPTY_1": "104",
+	"__EMPTY_2": "26",
+	"__EMPTY_3": "104",
+	"__EMPTY_4": "130"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Deleted Amount                ",
+	"__EMPTY": "144.76",
+	"__EMPTY_1": "600.5",
+	"__EMPTY_2": "144.76",
+	"__EMPTY_3": "600.5",
+	"__EMPTY_4": "745.26"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Overring Count                ",
+	"__EMPTY": "0",
+	"__EMPTY_1": "3",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "3",
+	"__EMPTY_4": "3"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Overring Amount               ",
+	"__EMPTY": "0",
+	"__EMPTY_1": "24.25",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "24.25",
+	"__EMPTY_4": "24.25"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Kid Toy Count                 ",
+	"__EMPTY": "0",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "0",
+	"__EMPTY_4": "0"
+},
+{
+	"SUMMERWOOD  Thu Mar 29, 2018 09:06 PM     ": "Kid Toy Amount                ",
+	"__EMPTY": "0",
+	"__EMPTY_1": "0",
+	"__EMPTY_2": "0",
+	"__EMPTY_3": "0",
+	"__EMPTY_4": "0"
+}]

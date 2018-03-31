@@ -5,3 +5,19 @@
     "pass": "test123"
   }
 ]
+
+
+enterData('dsell00','okta-signin-username','id')
+.then(enterData('Whopper2731!','okta-signin-password','id'))
+.then(clickButton('okta-signin-submit'));
+
+
+
+
+enterData('donna','XXX_login_name','name')
+.then(enterData('Pine+3346','XXX_login_password','name'))
+.then(clickButton('login','id'));
+
+clickButton('sales-button','id')
+.then(navigate("https://summerwood.sicomasp.com/wrapper.php?incoming=wrapper_prompt_icr.php%3F&name=Inventory and Cash (ICR)&helpname=PROMPTS&appid=114"))
+.then(selectOption("Yesterday","range__date_selector__start__end","name"));

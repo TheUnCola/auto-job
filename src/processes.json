@@ -22,10 +22,6 @@
         }
       },
       {
-        "op": "wait",
-        "time": "5"
-      },
-      {
         "op": "click",
         "ele": "sales-button",
         "type": "id"
@@ -35,10 +31,53 @@
         "url": "https://summerwood.sicomasp.com/wrapper.php?incoming=wrapper_prompt_icr.php%3F&name=Inventory and Cash (ICR)&helpname=PROMPTS&appid=114"
       },
       {
+        "op": "frame",
+        "ele": "wrapper_main",
+        "type": "name"
+      },
+      {
+        "op": "frame",
+        "ele": "prompt_main",
+        "type": "name"
+      },
+      {
         "op": "select",
         "ele": "range__date_selector__start__end",
         "type": "name",
         "option": "Yesterday"
+      },
+      {
+        "op": "click",
+        "ele": "page_2",
+        "type": "id"
+      },
+      {
+        "op": "click",
+        "ele": "page_3",
+        "type": "id"
+      },
+      {
+        "op": "click",
+        "ele": "format_csv",
+        "type": "id"
+      },
+      {
+        "op": "click",
+        "ele": "format_csv_noquotes",
+        "type": "id"
+      },
+      {
+        "op": "parentframe"
+      },
+      {
+        "op": "frame",
+        "ele": "prompt_button",
+        "type": "name"
+      },
+      {
+        "op": "click",
+        "ele": "//div[@class='toolbar']/child::ul[@class='right']/child::li/child::a[text()='Run Report']",
+        "type": "xpath"
       }
     ]
   },

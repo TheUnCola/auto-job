@@ -3,104 +3,81 @@ const {Builder, By, Key, until} = require('selenium-webdriver');
 const Promise = require('bluebird');
 var driver;
 
-let logTitle = function() {
-    driver.getTitle().then(function (title) {
-        console.log('Current Page Title: ' + title);
-    });
-};
-
-
 let handleFailure = function(err) {
     console.error('Something went wrong\n', err.stack, '\n');
-    this.closeBrowser();
-};
-
-let closeBrowser = function() {
     driver.quit();
 };
 
 let initBrowser = function () {
     // browser = new webdriver.Builder().usingServer().withCapabilities({'browserName': 'chrome'}).build();
     driver = new Builder().forBrowser('chrome').build();
-    /*return new Promise(function (fulfill, reject) {
-        //driver = new Builder().forBrowser('chrome').build();
-        setTimeout(function(){
-            return fulfill(true);
-        }, 5000);
-        // $(document).ready(function () {
-        //
-        // })
-    })*/
 };
 
 let navigate = function (url) {
     return new Promise(function (fulfill, reject) {
         return driver.get(url)
             .then(fulfill);
-            /*.then(function () {
-                $(document).ready(function () {
-                    return fulfill(true);
-                })
-                // driver.waitForUrl(url, 10 * 1000)
-                //     .then(fulfill);
-            });*/
     });
 };
 
-// let waitForURL = function (url) {
-//     return new Promise(function (fulfill, reject) {
-//         return driver.waitForUrl(url, 10 * 1000)
-//             .then(fulfill);
-//     });
-// };
+let focusFrame = function (ref, refType) {
+    return new Promise(function (fulfill, reject) {
+        return driver.switchTo().frame(ref)
+            .then(fulfill)
+    });
+};
+
+let focusParentFrame = function () {
+    return new Promise(function (fulfill, reject) {
+        return driver.switchTo().parentFrame()
+            .then(fulfill)
+    });
+};
 
 let enterData = function (data, ref, refType) {
     return new Promise(function (fulfill, reject) {
-        if(refType === 'id') {
-            return driver.wait(until.elementLocated(By.id(ref)), 5 * 1000).then(el => {
+        return driver.wait(until.elementLocated(By[refType](ref)), 5* 1000)
+            .then(el => {
                 return el.sendKeys(data)
+                    .then(fulfill)
+            });
+    });
+};
+
+let selectOption = function (ref, refType, opt) {
+    return new Promise(function (fulfill, reject) {
+        return driver.wait(until.elementLocated(By[refType](ref)), 5* 1000)
+            .then(el => {
+                return el.findElements(By.linkText(opt)).click()
                     .then(fulfill);
             });
-        } else if(refType === 'name') {
-            return driver.wait(until.elementLocated(By.name(ref)), 5 * 1000).then(el => {
-                return el.sendKeys(data)
-                    .then(fulfill);
-            });
+    });
+};
+
+let click = function(ref, refType) {
+    return new Promise(function (fulfill, reject) {
+        if(refType !== "xpath") {
+            return driver.wait(until.elementLocated(By[refType](ref)), 5 * 1000)
+                .then(el => {
+                    return el.click()
+                        .then(fulfill);
+                });
+        } else {
+            return driver.wait(driver.findElement(By.xpath(ref)), 5 * 1000)
+                .then(el => {
+                    return el.click()
+                        .then(fulfill);
+                });
         }
     });
 };
 
-let selectOption = function (data, ref, refType) {
-    return new Promise(function (fulfill, reject) {
-        if(refType === 'id') {
-            return driver.wait(until.elementLocated(By.id(ref)), 5 * 1000).then(el => {
-                return el.findElements(By.linkText(data)).click()
-                    .then(fulfill);
-            });
-        } else if(refType === 'name') {
-            return driver.wait(until.elementLocated(By.name(ref)), 5 * 1000).then(el => {
-                return el.findElements(By.linkText(data)).click()
-                    .then(fulfill);
-            });
-        }
-    });
-};
-
-let clickButton = function(ref, refType) {
-    return new Promise(function (fulfill, reject) {
-        if(refType === 'id') {
-        return driver.wait(until.elementLocated(By.id(ref)), 5 * 1000).then(el => {
-            return el.click()
-                .then(fulfill);
-        });
-        } else if(refType === 'name') {
-            return driver.wait(until.elementLocated(By.name(ref)), 5 * 1000).then(el => {
-                return el.click()
-                    .then(fulfill);
-            });
-        }
-    });
-};
+// let clickCheckBox = function(ref, refType) {
+//     return new Promise(function (fulfill, reject) {
+//         return untilElementLocated(ref,refType).click()
+//             .then(fulfill);
+//     });
+// };
 
 let opRouter = function(step,procName) {
     consoleLog(step.op);
@@ -113,16 +90,25 @@ let opRouter = function(step,procName) {
             let user = require('../cred.json')[procName];
             enterData(user.user,step.user.ele,step.user.type)
                 .then(enterData(user.pass,step.pass.ele,step.pass.type))
-                .then(clickButton(step.button.ele,step.button.type));
+                .then(click(step.button.ele,step.button.type));
             break;
         case "wait":
 
-            $(driver.getElement()).ready(function () {
-                consoleLog("Ready");
-            });
+            // $(driver.getElement()).ready(function () {
+            //     consoleLog("Ready");
+            // });
             break;
         case "click":
-            clickButton(step.ele,step.type);
+            click(step.ele,step.type);
+            break;
+        case "frame":
+            focusFrame(step.ele,step.type);
+            break;
+        case "parentframe":
+            focusParentFrame();
+            break;
+        case "select":
+            selectOption(step.ele,step.type,step.option);
             break;
         default:
             consoleLog("No Route Exists");
@@ -138,9 +124,15 @@ let doProcess = function (name) {
     return Promise.each(process.steps, function(step) {
         return new Promise(function(fulfill) {
             consoleLog(step);
-            opRouter(step,process.name);
-            return fulfill(true);
-        });
+            return driver.wait(function () {
+                return driver.executeScript("return document.readyState")
+                    .then(function (status) {
+                        return status === "complete";
+                    });
+                }, 1000)
+                .then(opRouter(step,process.name))
+                .then(fulfill)
+            });
     }).then(function () {
         consoleLog("Done Steps");
     })

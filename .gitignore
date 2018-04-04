@@ -4,3 +4,5 @@ input/
 output/
 src/node_modules/
 src/cred.json
+cache/
+build/

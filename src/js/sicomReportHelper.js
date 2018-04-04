@@ -1,26 +1,10 @@
-var fk,sicomFile,
+var sicomFile,
     sicomReportHTML = "../views/sicomReport.html",
     inputFolder = "../input", outputFolder = "../output",
     prev = 'Prev Step', next = 'Next Step';
 
 
 let sicomReportPages = [
-    /*{
-        page: "sicomReport",
-        funct: function() {},
-        buttons: [
-            {
-                id: 'main',
-                text: prev,
-                first: true
-            },
-            {
-                id: 1,
-                text: next,
-                first: false
-            }],
-        index: 0
-    },*/
     {
         page: "sicomReportInput",
         funct: function() { getInputFileList(); },
@@ -50,20 +34,14 @@ let sicomReportPages = [
 
 function initSicomReport() {
     toggleMainPage(false);
-    //$('#tool-contents').load(sicomReportHTML + ' #sicomReportInput');
     updatePage(sicomReportPages[0], sicomReportHTML, "tool");
-
     $(document).ready(function () {
         sicomReportPages[0].funct();
     });
-    // sicomReportPages[0].buttons.forEach(function(button) {
-    //     addButton(button.id,button.text,button.first,"tool");
-    // });
 }
 
 $(document).on('click', event => {
     var buttonId = $(event.target).attr('id');
-    consoleLog(buttonId);
     checkToolPage(sicomReportPages,sicomReportHTML,buttonId,"button");
 });
 

@@ -14,9 +14,12 @@ let initPage = function() {
                     }
                 },
                 {
-                    id: 'docTransRetrieval',
-                    text: 'Doc & Transmittal Retrieval',
-                    first: false
+                    id: 'sicomSelen',
+                    text: 'Sicom Selenium',
+                    first: false,
+                    funct: function () {
+                        doProcess("sicom");
+                    }
                 }],
             index: 0
         }

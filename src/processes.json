@@ -1,0 +1,69 @@
+{
+  "sicom": {
+    "name": "sicom",
+    "steps": [
+      {
+        "op": "navigate",
+        "url": "https://summerwood.sicomasp.com/login.php?redirect=1"
+      },
+      {
+        "op": "login",
+        "user": {
+          "ele": "XXX_login_name",
+          "type": "name"
+        },
+        "pass": {
+          "ele": "XXX_login_password",
+          "type": "name"
+        },
+        "button": {
+          "ele": "login",
+          "type": "id"
+        }
+      },
+      {
+        "op": "wait",
+        "time": "5"
+      },
+      {
+        "op": "click",
+        "ele": "sales-button",
+        "type": "id"
+      },
+      {
+        "op": "navigate",
+        "url": "https://summerwood.sicomasp.com/wrapper.php?incoming=wrapper_prompt_icr.php%3F&name=Inventory and Cash (ICR)&helpname=PROMPTS&appid=114"
+      },
+      {
+        "op": "select",
+        "ele": "range__date_selector__start__end",
+        "type": "name",
+        "option": "Yesterday"
+      }
+    ]
+  },
+  "rbi": {
+    "name": "rbi",
+    "steps": [
+      {
+        "op": "navigate",
+        "url": "https://rbi.okta.com/"
+      },
+      {
+        "op": "login",
+        "user": {
+          "ele": "okta-signin-username",
+          "type": "id"
+        },
+        "pass": {
+          "ele": "okta-signin-password",
+          "type": "id"
+        },
+        "button": {
+          "ele": "okta-signin-submit",
+          "type": "id"
+        }
+      }
+    ]
+  }
+}

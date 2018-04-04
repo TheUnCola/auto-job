@@ -1,0 +1,45 @@
+{
+  "name": "auto-job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "window": {
+    "toolbar": true,
+    "position": "center",
+    "width": 800,
+    "height": 720,
+    "resizable": false,
+    "icon": "assets/icon.png"
+  },
+  "maintainers": [
+    {
+      "name": "Steven Sell",
+      "web": "https://github.com/TheUnCola"
+    }
+  ],
+  "bugs": "https://github.com/TheUnCola/auto-job/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/TheUnCola/auto-job/blob/master/LICENSE"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/TheUnCola/auto-job.git",
+      "path": "src/"
+    }
+  ],
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "bootstrap": "^4.0.0",
+    "csv-parse": "^2.1.0",
+    "csvtojson": "^1.1.9",
+    "jquery": "^3.3.1",
+    "pdf2json": "^1.1.7",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "webdriverio": "latest",
+    "xlsx": "^0.12.7"
+  }
+}

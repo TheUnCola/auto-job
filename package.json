@@ -15,8 +15,9 @@
     "url": "https://github.com/TheUnCola/auto-job/issues"
   },
   "scripts": {
-    "dev": "nw src/",
-    "prod": "nwbuild --platforms win32,win64,osx64,linux32,linux64 --buildDir dist/ src/"
+    "postinstall": "cd src & npm install",
+    "dev": "nw src/ --enable-logging=stderr",
+    "prod": "nwbuild --platforms win32,win64 --buildDir dist/ src/"
   },
   "devDependencies": {
     "nw": "0.29.1",

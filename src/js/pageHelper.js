@@ -20,7 +20,16 @@ let initPage = function() {
                     funct: function () {
                         doProcess("sicom");
                     }
+                },
+                {
+                    id: 'rbiSelen',
+                    text: 'RBI Selenium',
+                    first: false,
+                    funct: function () {
+                        doProcess("rbi");
+                    }
                 }],
+
             index: 0
         }
     ];

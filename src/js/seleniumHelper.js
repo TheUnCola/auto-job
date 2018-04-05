@@ -13,6 +13,13 @@ let initBrowser = function () {
     driver = new Builder().forBrowser('chrome').build();
 };
 
+let maximize = function () {
+    return new Promise(function (fulfill, reject) {
+        return driver.manage().window().maximize()
+            .then(fulfill);
+    });
+};
+
 let navigate = function (url) {
     return new Promise(function (fulfill, reject) {
         return driver.get(url)
@@ -27,9 +34,9 @@ let focusFrame = function (ref, refType) {
     });
 };
 
-let focusParentFrame = function () {
+let focusTopFrame = function () {
     return new Promise(function (fulfill, reject) {
-        return driver.switchTo().parentFrame()
+        return driver.switchTo().defaultContent()
             .then(fulfill)
     });
 };
@@ -48,8 +55,11 @@ let selectOption = function (ref, refType, opt) {
     return new Promise(function (fulfill, reject) {
         return driver.wait(until.elementLocated(By[refType](ref)), 5* 1000)
             .then(el => {
-                return el.findElements(By.linkText(opt)).click()
-                    .then(fulfill);
+                return el.findElements(By.xpath('./option[contains(.,"'+ opt +'")]'))
+                    .then(function(optionsList) {
+                        return optionsList[0].click()
+                            .then(fulfill);
+                    });
             });
     });
 };
@@ -104,8 +114,8 @@ let opRouter = function(step,procName) {
         case "frame":
             focusFrame(step.ele,step.type);
             break;
-        case "parentframe":
-            focusParentFrame();
+        case "topframe":
+            focusTopFrame();
             break;
         case "select":
             selectOption(step.ele,step.type,step.option);
@@ -117,7 +127,9 @@ let opRouter = function(step,procName) {
 };
 
 let doProcess = function (name) {
+
     initBrowser();
+    maximize();
     let processes = require('../processes.json'),
         process = processes[name];
 //consoleLog(JSON.stringify(process));
@@ -129,11 +141,12 @@ let doProcess = function (name) {
                     .then(function (status) {
                         return status === "complete";
                     });
-                }, 1000)
+                }, 3000)
                 .then(opRouter(step,process.name))
                 .then(fulfill)
             });
     }).then(function () {
         consoleLog("Done Steps");
+
     })
 };

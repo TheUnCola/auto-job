@@ -67,7 +67,12 @@
         "type": "id"
       },
       {
-        "op": "parentframe"
+        "op": "topframe"
+      },
+      {
+        "op": "frame",
+        "ele": "wrapper_main",
+        "type": "name"
       },
       {
         "op": "frame",

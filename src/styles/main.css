@@ -73,7 +73,7 @@ div#inner-content {
     height:400px;
     width:200px;
     overflow:scroll;
-    /*display:none;*/
+    display:none;
 }
 
 .footer {

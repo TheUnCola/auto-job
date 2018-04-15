@@ -89,7 +89,9 @@ let buildCSV = function(inputFile) {
 
     //Building Buffer (Blank) Values
     for(let j = 0; j < rowHead.length; j++) {
-        storeString += ",";
+        if(j === 0) {
+            storeString += "Yesterday's Date (still need to add)";
+        } else storeString += ",";
     }
     //Building Rest Of Header String Based On Number Of Stores
     for(let i = 0; i < stores.length; i++) {

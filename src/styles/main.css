@@ -7,7 +7,7 @@ html {
 body {
     margin: 0px;
     padding: 0px;
-    background-image: url('assets/htmlbg.png')
+    /*background-image: url('../../resources/htmlbg.png')*/
 }
 
 ::-webkit-scrollbar-thumb {

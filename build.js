@@ -3,7 +3,7 @@ var nw = new NwBuilder({
     files: "src/**",
     forceDownload: true,
     zip: false,
-    platforms: ['win64']
+    platforms: ['win32']
 });
 
 // Log stuff you want

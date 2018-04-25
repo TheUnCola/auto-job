@@ -17,10 +17,12 @@
   "scripts": {
     "postinstall": "cd src & npm install",
     "dev": "nw src/ --enable-logging=stderr",
-    "prod": "nwbuild --platforms win32,win64 --buildDir dist/ src/"
+    "prod": "nwbuild --platforms win32 --buildDir dist/ src/",
+    "package:windows": "rimraf build && node build.js --progress --profile --bail"
   },
   "devDependencies": {
     "nw": "0.29.1",
-    "nw-builder": "3.5.1"
+    "nw-builder": "3.5.1",
+    "rimraf": "^2.6.2"
   }
 }

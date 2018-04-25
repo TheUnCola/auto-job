@@ -1,18 +1,25 @@
-<header class="jumbotron hero-spacer">
-  <h1>Auto Job</h1>
-  <p>Automagically does your job for you</p>
-</header>
+<div class="bg"></div>
+<div class="jumbotron container-fluid">
+  <h1 class="display-4">AutoPilot</h1>
+  <p class="lead">This app contains modules that will help make daily/weekly tasks faster and easier than ever before.</p>
+  <p class="lead">It utilizes an Angular Frontend, Electron/NodeJS Backend, and a Selenium Webdriver Client</p>
+</div>
 <hr>
 
 <div class="container text-center">
-  <div class="card">
-    <h1>Processes</h1>
-    <div class="row" *ngFor="let item of items">
-      <div class="col-sm-2"></div>
-      <div class="col-sm-8">
-        <button class="btn btn-default btn-lg" routerLink="{{item.link}}">{{item.name}}</button><br />
-      </div>
-      <div class="col-sm-2"></div>
-    </div>
+  <div class="card text-center">
+    <h5 class="card-header">Processes</h5>
+    <!--<div class="row" *ngFor="let item of items">-->
+      <!--<div class="col-sm-2"></div>-->
+      <!--<div class="col-sm-8">-->
+        <!--<button class="btn btn-default" routerLink="{{item.link}}">{{item.name}}</button>-->
+      <!--</div>-->
+      <!--<div class="col-sm-2"></div>-->
+    <!--</div>-->
+    <ul class="list-group">
+      <li class="list-group-item" *ngFor="let item of items">
+          <button class="list-group-item list-group-item-action text-center" routerLink="{{item.link}}">{{item.name}}</button>
+      </li>
+    </ul>
   </div>
 </div>

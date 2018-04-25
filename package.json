@@ -1,7 +1,7 @@
 {
   "name": "auto-job",
   "version": "1.0.0",
-  "description": "Automagically does your job for you",
+  "description": "AutoPilot contains modules that will help make daily/weekly tasks faster and easier than ever before. It utilizes an Angular Frontend, Electron/NodeJS Backend, and a Selenium Webdriver Client.",
   "author": "Steven Sell <TheUnCola@github.com>",
   "homepage": "https://github.com/TheUnCola/auto-job",
   "scripts": {
@@ -42,8 +42,6 @@
     "launch": "electron ./dist",
     "lint": "tslint \"src/**/*.ts\"",
     "package": "npm run clean:packages && build -mwl --x64",
-    "package:linux": "rimraf packages/linux/* && build --linux --x64",
-    "package:mac": "rimraf packages/mac/* && build --macos --x64",
     "package:windows": "rimraf packages/win/* && build --win --x64",
     "postinstall": "node ./config/install-app-deps",
     "postversion": "git push && git push --tags",
@@ -70,6 +68,7 @@
     "font-awesome": "^4.7.0",
     "fs-jetpack": "^1.0.0",
     "jquery": "^3.3.1",
+    "moment": "^2.22.1",
     "pdf2json": "^1.1.7",
     "popper.js": "^1.14.3",
     "rxjs": "~5.4.0",
@@ -189,17 +188,11 @@
     "zone.js": "~0.8.11"
   },
   "build": {
-    "appId": "com.electron.batch-tool-suite",
+    "appId": "com.electron.autopilot",
     "directories": {
       "buildResources": "src/resources",
       "output": "packages",
       "app": "dist"
-    },
-    "mac": {
-      "category": "public.app-category.graphics-design",
-      "target": [
-        "dmg"
-      ]
     },
     "linux": {
       "target": [

@@ -22,9 +22,9 @@ import { HomeState } from './components/home/home.reducer';
   templateUrl: './app.component.html'
 })
 export class AppComponent implements OnInit {
-  public angularclassLogo = 'assets/img/csc.png';
-  public name = 'Auto Job';
-  public url = 'https://cscgithub.cscglobal.com/ssell/batch-tool-suite';
+  // public angularclassLogo = 'assets/img/csc.png';
+  // public name = 'AutoPilot';
+  // public url = 'https://cscgithub.cscglobal.com/ssell/batch-tool-suite';
   public state$: Observable<HomeState>;
 
   constructor(private store: Store<AppState>) {

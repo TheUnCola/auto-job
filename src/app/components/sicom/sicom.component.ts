@@ -1,6 +1,8 @@
-import { Component } from '@angular/core';
+import {Component, Inject} from '@angular/core';
 import { SicomModel } from "./sicom.model";
 import { ipcRenderer } from 'electron';
+import {APP_CONFIG, AppConfig} from "../../config/app.config";
+import {IAppConfig} from "../../config/iapp.config";
 
 @Component({
   selector: 'app-sicom',
@@ -11,9 +13,13 @@ export class SicomComponent {
 
   model = new SicomModel();
   isFileChosen: boolean;
+  isFileDone: boolean;
+  backLink: string;
 
-  constructor() {
+  constructor(@Inject(APP_CONFIG) appConfig: IAppConfig) {
       this.isFileChosen = false;
+      this.isFileDone = false;
+      this.backLink = AppConfig.routes.home;
   };
 
   private openFileDialog(): void {
@@ -29,8 +35,11 @@ export class SicomComponent {
   }
 
   private processSicomReport(): void {
+    this.model.switchPage("processing");
+    this.backLink = "/" + AppConfig.routes.sicom;
     let model = this.model;
-    ipcRenderer.sendSync('build-csv',model.getSicomReportFile());
+    ipcRenderer.sendSync('build-csv',[model.getSicomReportFile()]);
+    this.isFileDone = true;
   }
 
 }

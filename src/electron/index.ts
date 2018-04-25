@@ -52,38 +52,6 @@ function createWindow() {
   });
 }
 
-/*function createPopupBrowser() {
-
-  const width = 800, height = 750;
-
-  // Create the browser window.
-  popWin = new BrowserWindow({
-    center:true,
-    width: width,
-    height: height,
-    icon: "../assets/img/csc.png",
-    resizable: false,
-    autoHideMenuBar:true
-  });
-
-  // and load the index.html of the app.
-  popWin.loadURL("https://my.cscglobal.com/cscportal/login.pwd");
-
-  // Open the DevTools.
-  if (DEV_SERVER) {
-    popWin.webContents.openDevTools();
-  }
-
-  // Emitted when the window is closed.
-  popWin.on('closed', () => {
-    // Dereference the window object, usually you would store windows
-    // in an array if your app supports multi windows, this is the time
-    // when you should delete the corresponding element.
-    popWin = null;
-
-  });
-}*/
-
 // This method will be called when Electron has finished
 // initialization and is ready to create browser windows.
 // Some APIs can only be used after this event occurs.
@@ -125,13 +93,16 @@ let buildCSV = function(inputFile) {
     numField,nameField,unitField,osField,skipBlankArrayIndex,wasteField,amtOSField,
     wasteTotal = [],amtOSTotal = [];
 
+  let moment = require('moment'),
+      date = moment().subtract(1,"day");
+
   let stores = ['544','10740','3346','6466'],storeCount = 0;
   let rowHead = ["NUM", "NAME", "UNIT"], storeRows = [], storeString = "";
 
   //Building Buffer (Blank) Values
   for(let j = 0; j < rowHead.length; j++) {
     if(j === 0) {
-      storeString += "Yesterday's Date (still need to add)";
+      storeString += "Sicom Report - " + date.format("MM/DD/YYYY") + ",";
     } else storeString += ",";
   }
   //Building Rest Of Header String Based On Number Of Stores
@@ -142,7 +113,6 @@ let buildCSV = function(inputFile) {
     if(i === 0) storeString += stores[i];
     else storeString += "," + stores[i];
   }
-  console.log("Hit BuildCSV");
   const csv=require('csvtojson');
   csv()
     .fromFile(inputFile)
@@ -234,7 +204,7 @@ let buildCSV = function(inputFile) {
         });
 
         fs.unlinkSync(inputFile);
-        fs.writeFileSync(inputFile, csvOutput);
+        fs.writeFileSync("SicomReport - " + date.format("MM-DD-YYYY") + ".csv", csvOutput);
       });
     });
 };

@@ -1,0 +1,56 @@
+<div class="container-fluid">
+<div class="row">
+  <div class="col-sm-1"></div>
+  <div class="col-sm-10">
+    <div class="card" *ngIf="model.getCurrPage() == 'fileUpload'">
+      <div class="card-header">Invoice List File</div>
+      <div class="card-body text-center">
+        <p class="card-text">
+          <button class="btn btn-default" id="openFileDialog" (click)="openFileDialog()">File</button>
+          {{model.getShortPath(model.getInvFile(),30)}}
+          <i class="fa fa-times-circle" *ngIf="isFileChosen" (click)="remove('file')"></i>
+        </p>
+        <button class="btn btn-default" *ngIf="isFileChosen" (click)="generateGoogleFunct()">Upload</button>
+      </div>
+    </div>
+    <div class="card" *ngIf="model.getCurrPage() == 'setDirs'">
+      <div class="card-header">Input & Output Dir</div>
+      <div class="card-body text-center">
+        <p class="card-text">
+          <button class="btn btn-default" id="openInputDialog" (click)="openDirDialog('input')">Directory</button>
+          <span *ngIf="isDirChosen">/{{model.getShortPath(model.getInputDir(),30)}}/</span>
+          <i class="fa fa-times-circle" *ngIf="isDirChosen" (click)="remove('dir')"></i>
+        </p>
+        <!--<p class="card-text">-->
+          <!--<button class="btn btn-default" id="openOuputDialog" (click)="openDirDialog('output')">Output</button>-->
+          <!--&nbsp;-->
+          <!--{{model.getOutputDir()}}-->
+        <!--</p>-->
+        <div class="alert alert-danger" role="alert" *ngIf="!isDirEmpty && isDirChosen">Dir NOT Empty! <br /> Any files in this dir will be affected.</div>
+        <button class="btn btn-default" *ngIf="isDirChosen" (click)="submitDirs()">Next</button>
+      </div>
+    </div>
+    <div class="card" *ngIf="model.getCurrPage() == 'googleFunct'">
+      <div class="card-header">Google Dev Console Function</div>
+      <div class="card-body">
+        <h5 class="card-title">Copy the function below into your browser's console</h5>
+        <p class="card-text">
+          <textarea class="googleFunctText" readonly #inputTarget>{{model.getGoogleFunct()}}</textarea>
+          <!--<button class="btn btn-default" [class.btn-success]= "isCopied" [ngxClipboard]="inputTarget" (click)="copyGoogleFunct()">Copy</button>-->
+          <button class="btn btn-default" [class.btn-success]= "isCopied" (click)="copyGoogleFunct()">Copy</button>
+        </p>
+        <span class="pdf-listen" *ngIf="model.getCurrPage() == 'pdfListener'">Waiting for PDFs...</span>
+      </div>
+    </div>
+    <div class="card" *ngIf="model.getCurrPage() == 'pdfListener'">
+      <div class="card-header">Waiting for PDFs...</div>
+      <div class="card-body">
+        <p class="card-text">
+          <textarea class="pdfProgress" readonly ngModel="{{model.getPDFProgress()}}">{{model.getPDFProgress()}}</textarea>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-1"></div>
+</div>
+</div>

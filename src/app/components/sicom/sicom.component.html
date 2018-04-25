@@ -1,0 +1,19 @@
+<div class="container-fluid">
+<div class="row">
+  <div class="col-sm-1"></div>
+  <div class="col-sm-10">
+    <div class="card" *ngIf="model.getCurrPage() == 'fileUpload'">
+      <div class="card-header">Sicom Report File</div>
+      <div class="card-body text-center">
+        <p class="card-text">
+          <button class="btn btn-default" id="openFileDialog" (click)="openFileDialog()">File</button>
+          {{model.getShortPath(model.getSicomReportFile(),30)}}
+          <i class="fa fa-times-circle" *ngIf="isFileChosen" (click)="remove('file')"></i>
+        </p>
+        <button class="btn btn-default" *ngIf="isFileChosen" (click)="processSicomReport()">Process</button>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-1"></div>
+</div>
+</div>

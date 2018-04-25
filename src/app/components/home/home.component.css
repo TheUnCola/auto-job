@@ -1,0 +1,79 @@
+/*styles for home content only*/
+header {
+  background-color: white;
+}
+
+hr, h1 {
+  margin: 10px 0;
+}
+
+/*.title {*/
+  /*color: white;*/
+  /*margin:0;*/
+  /*padding:50px 20px;*/
+/*}*/
+
+ol {
+  counter-reset: li; /* Initiate a counter */
+  list-style: none; /* Remove default numbering */
+  *list-style: decimal; /* Keep using default numbering for IE6/7 */
+  font: 15px 'trebuchet MS', 'lucida sans';
+  padding: 0;
+  margin-bottom: 10px;
+  text-shadow: 0 1px 0 rgba(255,255,255,.5);
+}
+
+ol ol {
+  margin: 0 0 0 2em; /* Add some left margin for inner lists */
+}
+
+.rounded-list span{
+  position: relative;
+  display: block;
+  padding: .4em .4em .4em 2em;
+  *padding: .4em;
+  margin: .5em auto;
+  background: #ddd;
+  color: #444;
+  text-decoration: none;
+  border-radius: .3em;
+  transition: all .3s ease-out;
+}
+
+.rounded-list span:hover{
+  background: #eee;
+}
+
+.rounded-list span:before{
+  content: counter(li);
+  counter-increment: li;
+  position: absolute;
+  left: -1.3em;
+  top: 50%;
+  margin-top: -1.3em;
+  background: #87ceeb;
+  height: 2em;
+  width: 2em;
+  line-height: 1.3em;
+  border: .3em solid #fff;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 2em;
+  transition: all .3s ease-out;
+}
+
+.content {
+  width: 100%;
+  margin: 0 auto 0px auto;
+  text-align:center;
+}
+
+.content img {
+  max-width: 95%;
+  max-height: 500px;
+  border: 1px solid black;
+}
+
+.card-header {
+  padding: 0.25em 1.25em;
+}

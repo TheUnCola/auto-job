@@ -1,0 +1,18 @@
+<header class="jumbotron hero-spacer">
+  <h1>Auto Job</h1>
+  <p>Automagically does your job for you</p>
+</header>
+<hr>
+<div class="container text-center">
+<div class="card">
+
+  <h1>Processes</h1>
+  <div class="row" *ngFor="let item of items">
+    <div class="col-sm-2"></div>
+    <div class="col-sm-8">
+    <button class="btn btn-default btn-lg" routerLink="{{item.link}}">{{item.name}}</button>
+    </div>
+    <div class="col-sm-2"></div>
+  </div>
+</div>
+</div>

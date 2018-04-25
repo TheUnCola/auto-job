@@ -31,7 +31,7 @@ const ProvidePlugin = require('webpack/lib/ProvidePlugin');
 const HMR = helpers.hasProcessFlag('hot');
 const AOT = helpers.hasNpmFlag('aot');
 const METADATA = {
-  title: 'Batch Tool Suite',
+  title: 'Auto Job',
   baseUrl: '',
   isDevServer: helpers.isWebpackDevServer()
 };

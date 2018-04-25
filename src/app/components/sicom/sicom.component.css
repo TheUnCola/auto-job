@@ -1,0 +1,13 @@
+.googleFunctText {
+  width: 95%;
+  height: 400px;
+}
+
+.fa-times-circle {
+  color:red;
+  cursor:pointer;
+  margin-top:-15px;
+}
+i {
+  margin-top:-15px;
+}

@@ -4,7 +4,6 @@ const Promise = require('bluebird');
 const {Builder, By, Key, until} = require('selenium-webdriver');
 import path from 'path';
 import url from 'url';
-//import 'font-awesome/css/font-awesome.css';
 import './dev-extensions';
 import ipcRenderer = Electron.ipcRenderer;
 import {first} from "rxjs/operator/first";
@@ -371,8 +370,8 @@ let doProcess = function (name) {
 
   initBrowser();
   maximize();
-  let processes = require('../assets/processes.json'),
-    process = processes[name];
+  let process/*es*/ = require('../assets/processes.json')[name]/*,
+    process = processes[name]*/;
   return Promise.each(process.steps, function(step) {
     return new Promise(function(fulfill) {
       console.log(step);
@@ -390,3 +389,17 @@ let doProcess = function (name) {
 
   })
 };
+
+ipcMain.on('do-process', function (event,args) {
+  doProcess(args[0]);
+});
+
+ipcMain.on('get-process-list', function (event) {
+  let processes = require('../assets/processes.json'), processList = [];
+  Object.keys(processes).forEach(function (key) {
+    processList.push(key);
+  });
+  event.returnValue = processList;
+});
+
+
